@@ -11,25 +11,27 @@
 --- task ---
 + Click the **+ Add a new project** button.
 
-+ Name your project “Did you like it” and set it to learn how to recognise **“text”**.  Click **Create**
++ Name your project 'Did you like it' and set it to learn to recognise **“text”**.  Click **Create**.
 ![Creating a project](images/create-project.png)
 
-+ You should see “Did you like it” in the projects list. Click on it.
++ You should now see 'Did you like it' in the projects list. Click on this project.
 --- /task ---
 
 --- task ---
-+ We’ll start by getting a project ready in Scratch. Click **Make**
++ Now get a project ready in Scratch. 
+
++ Click **Make**
 ![Project main menu](images/project-make.png)
 
 + Click **Scratch 3**
 
-+ Click **Scratch by itself**. The page will warn you that you haven’t done any machine learning yet, but clicking on **Scratch by itself** will launch Scratch.
++ Click on **Scratch by itself**. The page then warns you that you haven’t done any machine learning yet. Click on **Scratch by itself** to launch Scratch.
 
 + Delete the cat sprite.
 ![Deleting default sprite](images/delete-cat-annotated.png)
 
 + Create a new sprite by clicking on the **Paint** icon in the new sprite menu.
-![Paint a new sprite](images/click-paint.png)
+![Paint a new sprite](images/click-paint-annotated.png)
 
 + Draw a face without a mouth
 ![Draw a face without a mouth](images/draw-face.png)

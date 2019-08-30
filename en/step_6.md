@@ -1,22 +1,22 @@
 ## Use your machine learning model in Scratch
 
-Now you will update your scratch program to include your machine learning model.
+Now update your Scratch program to include your machine learning model instead of a rules-based approach.
 
 --- task ---
-+ Click on the **< Back to project** link
++ Click on the **< Back to project** link.
 
-+ Click on **Make**
++ Click on **Make**.
 
-+ Click on **Scratch 3**
++ Click on **Scratch 3**.
 
 + Click the **Open in Scratch 3** button to launch the Scratch editor. You should see new blocks from your project at the bottom of the list.
 ![New machine learning blocks in Scratch 3](images/new-blocks.png)
 
-+ Load the Scratch project you saved before.  Click on **File -> Load from your computer** Click OK when it asks to replace the current project
++ Load the Scratch project you saved before.  Click on **File** and then on **Load from your computer**, and select the Scratch project you saved earlier.
 --- /task ---
 
 --- task ---
-+ Click on the **Code** tab, and update the script to use your machine learning model **instead** of the rules you made before.
++ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
 The “recognise text … (label)” block is a new block added by your project. If you give it text, it will return return either "positive comments" or "negative comments" based on the training you’ve given to the computer.
 You can use this to choose the costume to switch to.
 ![New scratch code including new machine learning blocks](images/code-with-new-blocks.png)
@@ -27,8 +27,8 @@ You can use this to choose the costume to switch to.
 ![Testing new code from previous instruction](images/test-ml-model-annotated.png)
 
 + Test your project 
-Type a nice message and press enter. The character should smile.
-Click the green flag again. Type a negative message and press enter. The character should look sad. 
+Type a nice message and press <kbd>enter<kbd>. The character should smile.
+Click the green flag again. Type a negative message and press <kbd>enter<kbd>. The character should look sad. 
 Make sure you test that this works **even for messages that you didn’t include in your training.**
 ![Output with sad costume](images/output-sad.png)
 

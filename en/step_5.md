@@ -5,7 +5,7 @@ In this step you will train your machine to recognise whether your comment is po
 --- task ---
 + Click on the **< Back to project** link, then click **Learn & Test**
 
-+ Click on the **Train new machine learning model** button. As long as you’ve collected enough examples, the computer should start to learn how to recognise comments from the examples you’ve given to it, as either positive or negative.
++ Click on the **Train new machine learning model** button. If you have enough examples, the program should start to learn how to recognise comments from the examples you’ve given to it, as either positive or negative.
 
 ![Annotation pointing to train new machine learning model button](images/click-train-annotated.png)
 --- /task ---

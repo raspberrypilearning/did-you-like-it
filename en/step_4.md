@@ -10,7 +10,7 @@ Next, we’ll try a better approach – teaching the computer to recognise messa
 
 --- task ---
 + We need to collect some examples to train the computer. Click the **Train** button.
-![Project main menu](images/train-model.png)
+![Project main menu](images/project-make.png)
 
 + Click on **+ Add new label** and call it “positive comments”.  Do that again, and create a second bucket called “negative comments”. 
 ![2 empty classes named positive_comments and negative_comments](images/positive-and-negative.png)

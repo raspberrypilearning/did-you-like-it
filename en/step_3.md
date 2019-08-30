@@ -17,12 +17,12 @@ switch costume to (dislike v)
 end
 ```
 
-+ Save your project. Click on **File -> Save to your computer** to save the project to a file.
++ Click on **File** and then on **Save to your computer**, and save the program to a file.
 --- /task ---
 
 --- task ---
 
-+ Click on the **green flag** to test. 
++ Click on the **green flag** to test your program. 
 ![Scratch interface just after green flag is clicked](images/test-rules-annotated.png)
 
 + Type in a comment about a movie or book you seen and watch it react! Type “I loved the characters” and press enter. The character smiles. Click the green flag again and type “The adventure was boring”. The character cries. Type anything else, and the character’s face won’t change.
