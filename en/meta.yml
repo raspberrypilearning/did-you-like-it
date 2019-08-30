@@ -1,0 +1,11 @@
+title: did-you-like-it
+hero_image: images/banner.png
+description: did-you-like-it description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2019-08-30"
+steps:
+  - title: Introduction
+  - title: Step title
+  - title: What next?
