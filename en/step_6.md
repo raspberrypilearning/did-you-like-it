@@ -27,8 +27,8 @@ You can use this to choose the costume to switch to.
 ![Testing new code from previous instruction](images/test-ml-model-annotated.png)
 
 + Test your project 
-Type a nice message and press <kbd>enter<kbd>. The character should smile.
-Click the green flag again. Type a negative message and press <kbd>enter<kbd>. The character should look sad. 
+Type a nice message and press <kbd>enter</kbd>. The character should smile.
+Click the green flag again. Type a negative message and press <kbd>enter</kbd>. The character should look sad. 
 Make sure you test that this works **even for messages that you didn’t include in your training.**
 ![Output with sad costume](images/output-sad.png)
 
