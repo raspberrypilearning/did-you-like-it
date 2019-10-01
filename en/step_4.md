@@ -26,7 +26,7 @@ Next, try a better approach: teaching the computer to recognise messages for its
 
 --- collapse ---
 ---
-title: Tips for selecting good examples
+title: Tips for creating good examples
 ---
 + **More is good**: The more examples you give your program, the better the program should get at determining whether your comments are positive or negative. 
 
