@@ -1,7 +1,7 @@
 ## Introduction
 
-In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a character that will decide if you liked or disliked a movie or book based on what you say. If you say something positive, it will smile. If you say something negative, it will cry.
-To start with, you’ll program a list of rules for understanding messages, and learn why that approach isn’t very good.
+In this project, you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a character that will determine whether you liked or disliked a movie or book based on what you say. If you say something positive, it will smile. If you say something negative, it will cry.
+First, you will program a list of rules for understanding messages, and learn why that approach isn’t very good.
 Next, you will teach the computer to recognise messages as positive or negative by giving it examples of each.
 
 ### What you will make
