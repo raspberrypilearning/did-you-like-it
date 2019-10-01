@@ -1,13 +1,13 @@
 title: Did you like it?
 hero_image: images/banner.png
-description: Create a machine learning model that will decide whether you liked a movie or book based on your comments.
+description: Create a machine learning model that will determine whether you liked a movie or book based on your comments.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2019-07-29"
 steps:
   - title: Introduction
-  - title: How to create a project and sprite costumes
+  - title: Create a project and sprite costumes
   - title: Add a list of rules
   - title: Collect examples for training
   - title: Train and test your machine learning model
