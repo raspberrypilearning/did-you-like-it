@@ -30,4 +30,4 @@ end
 
 You have created a character that should react to what people type in, and programmed it using a simple rules-based approach.
 If you want it to react to other messages, you would need to add more `if` blocks.
-The problem with this is that you would need to predict exactly what messages the character will receive. It would take forever to make a list of every possible message!
+The problem with this is that you would need to predict exactly what messages the character will receive — it would take forever to make a list of every possible message!
