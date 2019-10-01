@@ -1,4 +1,4 @@
-## How to create a project and sprite costumes
+## Create a project and sprite costumes
 
 --- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
