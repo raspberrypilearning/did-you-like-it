@@ -1,3 +1,3 @@
 ## What next?
 
-Link to next project in the series or another project that could be completed after this
+If you enjoyed this project, why not try some of our other [machine learning projects](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning){:target="_blank"}?
