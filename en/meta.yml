@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Create a machine learning model that will determine whether you liked a movie or book based on your comments.
 version: 4
 listed: false
-copyedit: false
+copyedit: true
 last_tested: "2019-07-29"
 steps:
   - title: Introduction
