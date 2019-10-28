@@ -1,33 +1,33 @@
-## Collect examples for training
+## Verzamel voorbeelden voor training
 
-Next, try a better approach: teaching the computer to recognise messages for itself.
-
-\--- task \---
-+ Close the Scratch window and go back to the Machine Learning for Kids website.
-
-+ Click on **< Back to project**. \--- /task \---
+Probeer vervolgens een betere aanpak: leer de computer berichten zelf te herkennen.
 
 \--- task \---
-+ You need to collect some examples to train the computer. Click the **Train** button. ![Project main menu](images/project-make.png)
++ Sluit het Scratch-venster en ga terug naar de website Machine Learning for Kids.
 
-+ Click on **+ Add new label** and call it `positive comments`.  Do that again, and create a second bucket called `negative comments`. ![2 empty classes named positive_comments and negative_comments](images/positive-and-negative.png)
-
-+ Click on the **Add example** button in the **positive comments** bucket, and type in the nicest comment about a movie or book that you can think of.
-
-+ Click on the **Add example** button in the **negative comments** bucket, and type in the meanest comment about a movie or book that you can think of. \--- /task \---
++ Klik op **< Terug naar project**. \--- /task \---
 
 \--- task \---
-+ Continue to **Add examples** until you have got at least **six** compliments and **six** insults. ![6 examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and 6 examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep"](images/example-messages.png)
++ Je moet enkele voorbeelden verzamelen om de computer te trainen. Klik op de knop **Train**. ![Project hoofdmenu](images/project-make.png)
+
++ Klik op **+ Voeg een nieuw label toe** en noem het `positieve opmerkingen`.  Doe dat nog een keer en maak een tweede container met de naam `negatieve opmerkingen` aan. ![2 lege containers met de naam positieve_opmerkingen en negatieve_opmerkingen](images/positive-and-negative.png)
+
++ Klik op de knop **Voeg een voorbeeld toe** in de container voor **positieve opmerkingen** en typ de leukste opmerking over een film of boek die je maar kunt bedenken.
+
++ Klik op de knop **Voeg een voorbeeld toe** in de container met **negatieve opmerkingen** en typ de gemeenste opmerking over een film of boek die je maar kunt bedenken. \--- /task \---
+
+\--- task \---
++ Ga verder naar **Voeg een nieuw label toe** totdat je minstens **zes** complimenten en **zes** beledigingen hebt. ![6 voorbeelden van positieve reacties: "De cast was geweldig", "De plot was geweldig", "De scènes waren geweldig", "Het verhaal wekte mijn verbeelding", "Ik hield van de hoofdpersoon", "De soundtrack was vet" en 6 voorbeelden van negatieve opmerkingen: "De cast was verschrikkelijk", "De verhaal was onlogisch", "De scènes waren te donker", "Het verhaal was saai", "Ik haatte de hoofdpersoon", "Ik viel in slaap door de soundtrack"](images/example-messages.png)
 
 \--- collapse \---
 ---
-title: Tips for creating good examples
+title: Tips voor het maken van goede voorbeelden
 ---
-+ **More is good**: The more examples you give your program, the better the program should get at determining whether your comments are positive or negative.
++ **Hoe meer hoe beter**: hoe meer voorbeelden je geeft aan jouw programma, hoe beter het programma zal worden in het bepalen of je opmerkingen positief of negatief zijn.
 
-+ **Equal numbers**: Add roughly the same number of examples for each type of comment. If you have a lot of examples for one type and not the other, this can affect the way that the program learns to recognise them.
++ **Gelijke aantallen**: voeg ongeveer hetzelfde aantal voorbeelden toe voor elk type opmerking. Als je veel voorbeelden hebt voor het ene type en weinig voor de andere, kan dit van invloed zijn op de manier waarop het programma ze leert herkennen.
 
-+ **Make the examples really different from each other**: Try to think of lots of different types of example. For example, make sure that you include some long examples and some very short ones.
++ **Maak de voorbeelden echt verschillend van elkaar**: Probeer veel verschillende soorten voorbeelden te bedenken. Zorg er bijvoorbeeld voor dat je enkele lange en enkele zeer korte voorbeelden toevoegt.
 
 \--- /collapse \--- \--- /task \---
 
