@@ -36,6 +36,6 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 
 ### Licentie
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
