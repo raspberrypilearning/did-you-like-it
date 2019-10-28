@@ -1,3 +1,3 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you enjoyed this project, why not try some of our other [machine learning projects](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning){:target="_blank"}?
+Als je dit project leuk vond, probeer dan eens een van onze andere [machine learning-projecten](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning){:target="_blank"}?
