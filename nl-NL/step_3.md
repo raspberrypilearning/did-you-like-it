@@ -1,9 +1,9 @@
-## Add a list of rules
+## Voeg een lijst met regels toe
 
-In this step, you will include a list of rules to change the costume to **like** or **dislike**.
+In deze stap neem je een lijst met regels op om het kostuum te wijzigen in **leuk** of **niet leuk**.
 
 \--- task \---
-+ Click on the **Code** tab and enter the following code.
++ Klik op het tabblad **Code** en voer de volgende code in.
 
 ```blocks3
 when green flag clicked
