@@ -1,9 +1,9 @@
-## Challenge: more characters and emotions
+## Uitdaging: meer karakters en emoties
 
-\--- challenge \--- \--- task \--- **Write a reply**: Instead of just changing the way that your character looks, make it reply, based on what it recognises in the message! \--- /task \---
+\--- challenge \--- \--- task \--- **Schrijf een antwoord**: In plaats van alleen het uiterlijk van je personage te veranderen, laat je het antwoorden, gebaseerd op wat het in het bericht herkent! \--- /task \---
 
-\--- task \--- **Try a different character**: Instead of a person’s face, why not try something different, like an animal? The character could react in different ways, instead of smiling. For example, you could make a dog that wags their tail if you say something nice about the movie or book! \--- /task \---
+\--- task \--- **Probeer een ander personage**: Probeer in plaats van het gezicht van een persoon iets anders, zoals een dier? Het personage kan op verschillende manieren reageren, in plaats van te glimlachen. Je kunt bijvoorbeeld een hond maken die met zijn staart kwispelt als je iets leuks zegt over de film of het boek! \--- /task \---
 
-\--- task \--- **Different emotions**: Instead of positive and negative, could you train the character to recognise other types of messages? \--- /task \---
+\--- task \--- **Verschillende emoties**: Zou je het personage in plaats van positief en negatief kunnen trainen om andere soorten berichten te herkennen? \---/task\---
 
-\--- task \--- **Real-world sentiment analysis**: Can you think of examples where it’s useful to be able to train a computer to recognise emotion in writing? \--- /task \--- \--- /challenge \---
+\--- task \--- **Realistische emotie analyse**: Kun je voorbeelden bedenken waar het nuttig is om een computer te kunnen trainen om schriftelijke emotie te herkennen? \--- /task \--- \--- /challenge \---
