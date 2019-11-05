@@ -1,0 +1,26 @@
+---
+title: Vond je het leuk?
+hero_image: images/banner.png
+description: Maak een machine learning-model dat op basis van je opmerkingen bepaalt of je een film of boek leuk vond.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2019-07-29"
+steps:
+  - 
+    title: Inleiding
+  - 
+    title: Maak een project en sprite uiterlijken
+  - 
+    title: Voeg een lijst met regels toe
+  - 
+    title: Verzamel voorbeelden voor training
+  - 
+    title: Train en test je machine learning-model
+  - 
+    title: Gebruik je machine learning-model in Scratch
+  - 
+    title: "Uitdaging: meer personages en emoties"
+    challenge: true
+  - 
+    title: Wat kun je verder nog doen?
