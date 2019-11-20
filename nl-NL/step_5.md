@@ -1,21 +1,21 @@
-## Train and test your machine learning model
+## Train en test je machine learning-model
 
-In this step, you will train your machine to recognise whether your comment is positive or negative and automatically put it in one of the two buckets based on the examples that you have added.
+In deze stap train je jouw machine om te herkennen of je opmerking positief of negatief is en plaats je deze automatisch in een van de twee containers op basis van de voorbeelden die je hebt toegevoegd.
 
 --- task ---
-+ Click on **< Back to project**, then click on **Learn & Test**.
++ Klik op **< Terug naar project**en vervolgens op **Leer & Test**.
 
-+ Click on the **Train new machine learning model** button. If you have enough examples, the program should start to learn how to recognise comments as either positive or negative from the examples that you’ve given to it.
++ Klik op de knop **Train nieuwe machine learning model**. Als je genoeg voorbeelden hebt, zou het programma moeten beginnen met uit de voorbeelden die je hebt gegeven te leren hoe reacties als positief of negatief te herkennen.
 
-![Annotation pointing to train new machine learning model button](images/click-train-annotated.png) --- /task ---
+![Annotatie die wijst op de knop voor het trainen van het nieuwe model voor machine learning](images/click-train-annotated.png) ---/task---
 
-Wait for the training to complete. This might take a few minutes.
+Wacht tot de training is voltooid. Dit kan een paar minuten duren.
 
---- task --- Once the training has completed, a test box will be displayed. Try testing your machine learning model to see what it has learned.
-+ Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
-+ Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
-+ Test it with examples that you haven’t shown the computer before.
+--- task --- Nadat de training is voltooid, wordt een test vak weergegeven. Probeer je machine learning-model te testen om te zien wat het heeft geleerd.
++ Typ iets leuks en druk op <kbd>Enter</kbd>. Het moet als positief worden herkend.
++ Typ iets kritisch en druk op <kbd>Enter</kbd>. Het moet als negatief worden herkend.
++ Test het met voorbeelden die je de computer nog niet eerder hebt getoond.
 
-If you’re not happy with how the computer recognises the comments, go back to the previous step and add some more examples. Make sure that you repeat these steps to train your computer with the new examples though! ![Annotation pointing to train new machine learning model button](images/test-model-annotated.png) --- /task ---
+Als je niet tevreden bent met hoe de computer de opmerkingen herkent, ga je terug naar de vorige stap en voeg je nog enkele voorbeelden toe. Zorg ervoor dat je deze stappen herhaalt om je computer te trainen met de nieuwe voorbeelden! ![Annotation pointing to train new machine learning model button](images/test-model-annotated.png) --- /task ---
 
-You have started to train a computer to recognise text as being positive or negative. Instead of trying to write rules to be able to do this, you are doing it by collecting examples. These examples are being used to train a machine learning **'model'**. This is called **supervised learning** because of the way that you are supervising the computer’s training. The computer will learn from patterns in the examples that you’ve given it, such as the choice of words, and the way that sentences are structured. These will be used to recognise new messages. 
+Je bent begonnen met het trainen van een computer om tekst te herkennen als positief of negatief. In plaats van te proberen regels te schrijven om dit te kunnen doen, doe je dit door voorbeelden te verzamelen. Deze voorbeelden worden gebruikt om een machine learning-**'model'** te trainen. Dit wordt **supervised learning (begeleid leren)** genoemd vanwege de manier waarop je toezicht houdt op de training van de computer. De computer leert van patronen in de voorbeelden die je hebt gegeven, zoals de woordkeuze en de manier waarop zinnen zijn gestructureerd. Deze worden gebruikt om nieuwe berichten te herkennen. 
