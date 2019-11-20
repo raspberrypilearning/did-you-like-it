@@ -1,27 +1,27 @@
 ## Inleiding
 
-In this project, you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a character that will determine whether you liked or disliked a movie or book based on what you say. If you say something positive, it will smile. If you say something negative, it will cry. First, you will program a list of rules for understanding messages, and learn why that approach isn’t very good. Next, you will teach the computer to recognise messages as positive or negative by giving it examples of each.
+In dit project gebruik je [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} om een personage te maken dat bepaalt of je een film of boek leuk of niet leuk vond op basis van wat je zegt. Als je iets positiefs zegt, zal het glimlachen. Als je iets negatiefs zegt, zal het huilen. Eerst programmeer je een lijst met regels voor het begrijpen van berichten en leer je waarom die aanpak niet erg goed is. Vervolgens leer je de computer om berichten als positief of negatief te herkennen door er voorbeelden van te geven.
 
 ### Wat ga je maken
---- no-print --- ![Complete project](images/did-you-like-it.gif) --- /no-print ---
+--- no-print --- ![Complete project](images/did-you-like-it.gif) --- / no-print ---
 
 --- print-only --- ![Complete project](images/output-happy.png) --- /print-only --- --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-+ How to train and test a machine learning model
-+ Why this approach is better than using a long list of rules
-+ How to use a trained model in a Scratch 3 program
++ Een machine learning-model trainen en testen
++ Waarom deze aanpak beter is dan het gebruik van een lange lijst met regels
++ Een getraind model gebruiken in een Scratch 3-programma
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
-+ A computer connected to the internet
++ Een computer verbonden met internet
 
 --- /collapse ---
 
@@ -30,12 +30,12 @@ title: What you will need
 title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/did-you-like-it/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/did-you-like-it/print){:target="_ blank"}.
 
 --- /collapse ---
 
-### Licence
+### Licentie
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
