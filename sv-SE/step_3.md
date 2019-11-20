@@ -2,7 +2,7 @@
 
 In this step, you will include a list of rules to change the costume to **like** or **dislike**.
 
-\--- task \---
+--- task ---
 + Click on the **Code** tab and enter the following code.
 
 ```blocks3
@@ -17,12 +17,12 @@ switch costume to (dislike v)
 end
 ```
 
-+ Click on **File** and then on **Save to your computer** to save the program to a file. \--- /task \---
++ Click on **File** and then on **Save to your computer** to save the program to a file. --- /task ---
 
-\--- task \---
+--- task ---
 
 + Click on the **green flag** to test your program. ![Scratch interface just after green flag is clicked](images/test-rules-annotated.png)
 
-+ Type in a comment about a movie or book and watch it react! Type in `I loved the characters` and press <kbd>Enter</kbd>. The character will smile. Click on the green flag again, type in `The adventure was boring`, and press <kbd>Enter</kbd>. The character will cry. Type in anything else, press <kbd>Enter</kbd>, and the character’s face won’t change. \--- /task \---
++ Type in a comment about a movie or book and watch it react! Type in `I loved the characters` and press <kbd>Enter</kbd>. The character will smile. Click on the green flag again, type in `The adventure was boring`, and press <kbd>Enter</kbd>. The character will cry. Type in anything else, press <kbd>Enter</kbd>, and the character’s face won’t change. --- /task ---
 
 You have created a character that should react to what people type in, and programmed it using a simple rules-based approach. If you want it to react to other messages, you would need to add more `if` blocks. The problem with this is that you would need to predict exactly what messages the character will receive — it would take forever to make a list of every possible message!
