@@ -11,7 +11,7 @@ Werk nu je Scratch-programma bij met je machine learning-model in plaats van een
 
 + Klik op de knop **Open in Scratch 3** om de Scratch-editor te starten. Je zou de nieuwe blokken van je project onderaan de lijst moeten zien. ![Nieuwe machine learning blokken in Scratch 3](images/new-blocks.png)
 
-+ Laad het Scratch-project dat je eerder hebt opgeslagen: klik op **Bestand**en vervolgens op **Uploaden van je computer** en selecteer vervolgens het Scratch-project dat je eerder hebt opgeslagen. --- /task ---
++ Laad het Scratch-project dat je eerder hebt opgeslagen: klik op **Bestand** en vervolgens op **Uploaden van je computer** en selecteer vervolgens het Scratch-project dat je eerder hebt opgeslagen. --- /task ---
 
 --- task ---
 + Klik op het tabblad **Code** en werk vervolgens je Scratch-code bij om je machine learning-model te gebruiken **in plaats van** de regels die je eerder hebt toegevoegd. Het blok `herken tekst … (label)` is een nieuw blok dat door je project is toegevoegd. Als je tekst ingeeft, retourneert het ofwel `positieve opmerkingen` of `negatieve opmerkingen` op basis van de training die je aan de computer hebt gegeven. Je kunt dit gebruiken om het uiterlijk te kiezen om naar over te schakelen. ![New scratch code including new machine learning blocks](images/code-with-new-blocks.png) --- /task ---

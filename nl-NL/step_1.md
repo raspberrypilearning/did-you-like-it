@@ -3,9 +3,14 @@
 In dit project gebruik je [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} om een personage te maken dat bepaalt of je een film of boek leuk of niet leuk vond op basis van wat je zegt. Als je iets positiefs zegt, zal het glimlachen. Als je iets negatiefs zegt, zal het huilen. Eerst programmeer je een lijst met regels voor het begrijpen van berichten en leer je waarom die aanpak niet erg goed is. Vervolgens leer je de computer om berichten als positief of negatief te herkennen door er voorbeelden van te geven.
 
 ### Wat ga je maken
---- no-print --- ![Complete project](images/did-you-like-it.gif) --- /no-print ---
+--- no-print --- 
+![Complete project](images/did-you-like-it.gif) 
+--- /no-print ---
 
---- print-only --- ![Complete project](images/output-happy.png) --- /print-only --- --- collapse ---
+--- print-only --- 
+![Complete project](images/output-happy.png) 
+--- /print-only --- 
+--- collapse ---
 ---
 title: Wat ga je leren
 ---
