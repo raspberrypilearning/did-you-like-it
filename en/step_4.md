@@ -1,39 +1,28 @@
-## Collect examples for training
+## Train and test your machine learning model
 
-Next, try a better approach: teaching the computer to recognise messages for itself.
-
---- task ---
-+ Close the Scratch window and go back to the Machine Learning for Kids website.
-
-+ Click on **< Back to project**.
---- /task ---
+In this step, you will train your machine to recognise whether your comment is positive or negative and automatically put it in one of the two buckets based on the examples that you have added.
 
 --- task ---
-+ You need to collect some examples to train the computer. Click the **Train** button.
-![Project main menu](images/project-make.png)
++ Click on **< Back to project**, then click on **Learn & Test**.
 
-+ Click on **+ Add new label** and call it `positive comments`.  Do that again, and create a second bucket called `negative comments`. 
-![2 empty classes named positive_comments and negative_comments](images/positive-and-negative.png)
++ Click on the **Train new machine learning model** button. If you have enough examples, the program should start to learn how to recognise comments as either positive or negative from the examples that you’ve given to it.
 
-+ Click on the **Add example** button in the **positive comments** bucket, and type in the nicest comment about a movie or book that you can think of. 
-
-+ Click on the **Add example** button in the **negative comments** bucket, and type in the meanest comment about a movie or book that you can think of. 
+![Annotation pointing to train new machine learning model button](images/click-train-annotated.png)
 --- /task ---
+
+Wait for the training to complete. This might take a few minutes.
 
 --- task ---
-+ Continue to **Add examples** until you have got at least **six** compliments and **six** insults.
-![6 examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and 6 examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep"](images/example-messages.png)
+Once the training has completed, a test box will be displayed. Try testing your machine learning model to see what it has learned. 
++ Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
++ Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
++ Test it with examples that you haven’t shown the computer before.
 
---- collapse ---
----
-title: Tips for creating good examples
----
-+ **More is good**: The more examples you give your program, the better the program should get at determining whether your comments are positive or negative. 
-
-+ **Equal numbers**: Add roughly the same number of examples for each type of comment. If you have a lot of examples for one type and not the other, this can affect the way that the program learns to recognise them. 
-
-+ **Make the examples really different from each other**: Try to think of lots of different types of example. For example, make sure that you include some long examples and some very short ones.
- 
---- /collapse ---
+If you’re not happy with how the computer recognises the comments, go back to the previous step and add some more examples. 
+Make sure that you repeat these steps to train your computer with the new examples though!
+![Annotation pointing to train new machine learning model button](images/test-model-annotated.png)
 --- /task ---
 
+You have started to train a computer to recognise text as being positive or negative. Instead of trying to write rules to be able to do this, you are doing it by collecting examples. These examples are being used to train a machine learning **'model'**.
+This is called **supervised learning** because of the way that you are supervising the computer’s training.
+The computer will learn from patterns in the examples that you’ve given it, such as the choice of words, and the way that sentences are structured. These will be used to recognise new messages. 
