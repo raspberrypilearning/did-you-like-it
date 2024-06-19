@@ -10,10 +10,10 @@ last_tested: '2024-06-19'
 steps:
 - title: Introduction
 - title: Set up the project
-- title: Collect examples for training
+- title: Example comments
   completion:
   - engaged
-- title: Train and test your machine learning model
+- title: Train the model
 - title: Use your machine learning model in Scratch
   completion:
   - internal
