@@ -1,3 +1,3 @@
-## What next?
+## You've completed the project 🎉
 
-If you enjoyed this project, why not try some of our other [machine learning projects](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning){:target="_blank"}?
+If you are following the [Machine Learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway, you can move on to the [xxxxx](https://projects.raspberrypi.org/en/projects/xxxxx) project. In this project, you will xxxxxx.

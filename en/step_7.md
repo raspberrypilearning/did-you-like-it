@@ -14,7 +14,4 @@ The character could react in different ways, instead of smiling. For example, yo
 **Different emotions**: Instead of positive and negative, could you train the character to recognise other types of messages?
 --- /task ---
 
---- task ---
-**Real-world sentiment analysis**: Can you think of examples where it’s useful to be able to train a computer to recognise emotion in writing?
---- /task ---
 --- /challenge ---

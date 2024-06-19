@@ -13,9 +13,9 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 + Click on the **green flag** to test your project. Type in a nice message and press <kbd>Enter</kbd>. The character should smile.
+--- /task ---
 
 Make sure that you test that this works **even for messages that you didn’t include in your training.**
---- /task ---
 
 --- task ---
 
