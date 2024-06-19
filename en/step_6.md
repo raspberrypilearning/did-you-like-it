@@ -2,6 +2,39 @@
 
 Now, update your Scratch program to include your machine learning model instead of a rules-based approach.
 
+
+
+
+--- task ---
++ Now, get a project ready in Scratch. 
+
++ Click on **Make**.
+![Project main menu](images/project-make.png)
+
++ Click on **Scratch 3**.
+
++ The page then warns you that you haven’t done any machine learning yet. Click on **Scratch by itself** to launch Scratch.
+
++ Delete the cat sprite.
+![Deleting default sprite](images/delete-cat-annotated.png)
+
++ Go to the new sprite menu and click on the **Paint** icon to create a new sprite.
+![Paint a new sprite](images/click-paint-annotated.png)
+
++ Draw a face without a mouth.
+![Draw a face without a mouth](images/draw-face.png)
+
++ Right-click on the costume and click on **duplicate**. Repeat one more time so that you have **three** copies of the costume.
+![Duplicate a costume](images/duplicate-costume.png)
+
++ Name the three costumes `not sure`, `like` and `dislike`. Type the names into the white box shown by the arrow below.
+![Rename costumes](images/costume-name-annotated.png)
+
++ Draw a mouth on each of the costumes. The **not sure** face should have a straight line as its mouth. The **like** face should have a smile. The **dislike** face should look sad.
+![Draw mouths on the costumes](images/draw-mouths.png)
+--- /task ---
+
+
 --- task ---
 + Click on **< Back to project**.
 
