@@ -1,6 +1,6 @@
 ## Introduction
 
-Create a character that will determine whether you liked or disliked a movie or book based on what you say, and react appropriately.
+Create a character that will react to what you say about a movie or book, either positive or negative.
 
 --- no-print ---
 ![Complete project](images/did-you-like-it.gif)
