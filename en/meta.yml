@@ -14,6 +14,7 @@ steps:
   completion:
   - engaged
 - title: Train the model
+- title: Create an emoji 
 - title: Show a reaction
   completion:
   - internal

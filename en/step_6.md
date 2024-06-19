@@ -1,20 +1,38 @@
-## Challenge: more characters and emotions
+## Show a reaction
 
---- challenge ---
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you trained. 
+
 --- task ---
-**Write a reply**: Instead of just changing the way that your character looks, make it reply, based on what it recognises in the message!
++ Click on the **Code** tab 
 --- /task ---
 
 --- task ---
-**Try a different character**: Instead of a person’s face, why not try something different, like an animal?
-The character could react in different ways, instead of smiling. For example, you could make a dog that wags their tail if you say something nice about the movie or book!
++ Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face.
+![New scratch code including new machine learning blocks](images/code-with-new-blocks.png)
 --- /task ---
 
 --- task ---
-**Different emotions**: Instead of positive and negative, could you train the character to recognise other types of messages?
++ Click on the **green flag** to test your project. Type in a nice message and press <kbd>Enter</kbd>. The character should smile.
+
+Make sure that you test that this works **even for messages that you didn’t include in your training.**
 --- /task ---
 
 --- task ---
-**Real-world sentiment analysis**: Can you think of examples where it’s useful to be able to train a computer to recognise emotion in writing?
+
++ Add some more code so that `if` the model recognises a negative comment, it displays the `dislike` costume.
+
+--- collapse ---
+---
+title: Show me how
+---
+
+![Code to display the dislike face when there is a negative comment](images/negative-comment.png)
+
+--- /collapse ---
+
 --- /task ---
---- /challenge ---
+
+--- task ---
+Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad. 
+--- /task ---
+
