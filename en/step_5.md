@@ -1,6 +1,6 @@
 ## Create an emoji 
 
-Now that your model can distinguish between positive and negative comments, you can use it in a Scratch program to show a reaction.
+Now that your model can distinguish between positive and negative comments, you can use it in a Scratch program to show an emoji reaction.
 
 --- task ---
 + Click on the **< Back to project** link.
