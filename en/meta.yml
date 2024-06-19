@@ -14,7 +14,7 @@ steps:
   completion:
   - engaged
 - title: Train the model
-- title: Use your machine learning model in Scratch
+- title: Show a reaction
   completion:
   - internal
 - title: 'Challenge: more characters and emotions'
