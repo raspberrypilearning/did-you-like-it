@@ -1,4 +1,4 @@
-## Challenge: more characters and emotions
+## Challenge
 
 --- challenge ---
 --- task ---
