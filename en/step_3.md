@@ -3,7 +3,7 @@
 Your machine learning model needs some examples of positive and negative comments people might make about movies. 
 
 --- task ---
-+ Click on **+ Add new label** and create a label called `positive`.
++ Click on **+ Add new label** on the top right and create a label called `positive`.
 --- /task ---
 
 --- task ---

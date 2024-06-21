@@ -1,6 +1,8 @@
 ## Show a reaction
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you trained. 
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+
+![New blocks](images/new-blocks-menu.png)
 
 --- task ---
 + Click on the **Code** tab 
@@ -33,6 +35,6 @@ title: Show me how
 --- /task ---
 
 --- task ---
-Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad. 
++ Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad. 
 --- /task ---
 

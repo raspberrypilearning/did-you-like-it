@@ -10,8 +10,4 @@
 The character could react in different ways, instead of smiling. For example, you could make a dog that wags their tail if you say something nice about the movie or book!
 --- /task ---
 
---- task ---
-**Different emotions**: Instead of positive and negative, could you train the character to recognise other types of messages?
---- /task ---
-
 --- /challenge ---
