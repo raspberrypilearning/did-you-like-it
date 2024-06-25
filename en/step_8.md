@@ -1,3 +1,6 @@
 ## You've completed the project 🎉
 
-If you are following the [Machine Learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway, you can move on to the [xxxxx](https://projects.raspberrypi.org/en/projects/xxxxx) project. In this project, you will xxxxxx.
+Congratulations, you have reached the end of the [Machine Learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) path!
+
+
+You can explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch) and try them out.
