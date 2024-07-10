@@ -3,7 +3,7 @@
 --- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
 
-+ Click on **Get Started**
++ Click on **Get started**.
 
 + Click on **Try it now**.
 --- /task ---
@@ -13,7 +13,7 @@
 
 + Click on the **+ Add a new project** button.
 
-+ Name your project 'Did you like it' and set it to learn to recognise **text**, and store data **in your web browser**. Then click on **Create**.
++ Name your project `Did you like it` and set it to learn to recognise **text**, and store data **in your web browser**. Then click on **Create**.
 ![Creating a project](images/create-new-project.png)
 
 + You should now see 'Did you like it' in the projects list. Click on the project.
