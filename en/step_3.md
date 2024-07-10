@@ -1,6 +1,6 @@
 ## Example comments
 
-Your machine learning model needs some examples of positive and negative comments people might make about movies. 
+Your machine learning model needs some examples of positive and negative comments people might make about movies or books. 
 
 --- task ---
 + Click on **+ Add new label** on the top right and create a label called `positive`.
@@ -18,7 +18,7 @@ Your machine learning model needs some examples of positive and negative comment
 + Add **six examples** of negative comments. 
 --- /task ---
 
-![6 examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and 6 examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep"](images/example-messages.png)
+![Six examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and six examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep".](images/example-messages.png)
 
 
 
