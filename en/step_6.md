@@ -5,7 +5,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 ![New blocks](images/new-blocks-menu.png)
 
 --- task ---
-+ Click on the **Code** tab 
++ Click on the **Code** tab. 
 --- /task ---
 
 --- task ---
@@ -17,7 +17,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 + Click on the **green flag** to test your project. Type in a nice message and press <kbd>Enter</kbd>. The character should smile.
 --- /task ---
 
-Make sure that you test that this works **even for messages that you didn’t include in your training.**
+Make sure that you test that this works **even for messages that you didn’t include in your training examples**.
 
 --- task ---
 
