@@ -34,7 +34,7 @@ Now that your model can distinguish between positive and negative comments, you 
 --- /task ---
 
 --- task ---
-+ To rename a costume, type a new name into the white box. Name the three costumes `not sure`, `like` and `dislike`. 
++ To rename a costume, type a new name into the white box. Name the three costumes `not sure`, `like`, and `dislike`. 
 ![Rename costumes](images/costume-name.png)
 --- /task ---
 
