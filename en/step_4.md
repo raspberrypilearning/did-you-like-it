@@ -13,14 +13,14 @@ You have gathered the examples you need, now you will use these examples to trai
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises whether a comment is positive or negative. Make sure you test examples that you haven’t shown the computer before. 
+Once the training has finished, you can test how well your model recognises whether a comment is positive or negative. Make sure you test examples that you haven’t used before. 
 
 --- task ---
 
 + Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
 + Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
 
-![The text 'The movie was really exciting' recognised as positive with 87% confidence](images/movie-exciting.png)
+![The text 'The movie was really exciting' recognised as positive with 87% confidence.](images/movie-exciting.png)
 
 --- /task ---
 
