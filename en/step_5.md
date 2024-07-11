@@ -40,6 +40,6 @@ Now that your model can distinguish between positive and negative comments, you 
 
 --- task ---
 + Draw a mouth on each of the costumes to represent each emotion.
-![Draw a mouths on each costume to represent an emotion](images/draw-mouths.png)
+![Draw a mouth on each costume to represent an emotion](images/draw-mouths.png)
 --- /task ---
 
