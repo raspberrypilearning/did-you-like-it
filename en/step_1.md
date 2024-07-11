@@ -6,9 +6,6 @@ Create a character that will react to what you say about a movie or book, either
 ![Complete project](images/did-you-like-it.gif)
 --- /no-print ---
 
---- print-only ---
-![Complete project](images/output-happy.png)
---- /print-only ---
 
 --- collapse ---
 ---

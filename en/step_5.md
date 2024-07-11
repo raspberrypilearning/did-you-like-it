@@ -20,7 +20,7 @@ Now that your model can distinguish between positive and negative comments, you 
 
 --- task ---
 + Open the new sprite menu and click on the **Paint** icon to create a new sprite.
-![Paint a new sprite](images/click-paint.png)
+![Open the new sprite menu and select Paint](images/click-paint.png)
 --- /task ---
 
 --- task ---
@@ -30,16 +30,16 @@ Now that your model can distinguish between positive and negative comments, you 
 
 --- task ---
 + Right-click on the costume and click on **duplicate** to create a copy. Repeat one more time so that you have **three** copies of the costume.
-![Duplicate a costume](images/duplicate-costume.png)
+![Right click on the face costume you just drew and click duplicate](images/duplicate-costume.png)
 --- /task ---
 
 --- task ---
 + To rename a costume, type a new name into the white box. Name the three costumes `not sure`, `like`, and `dislike`. 
-![Rename costumes](images/costume-name.png)
+![With a costume selected, type the costume name in the white box](images/costume-name.png)
 --- /task ---
 
 --- task ---
 + Draw a mouth on each of the costumes to represent each emotion.
-![Draw mouths on the costumes](images/draw-mouths.png)
+![Draw a mouths on each costume to represent an emotion](images/draw-mouths.png)
 --- /task ---
 

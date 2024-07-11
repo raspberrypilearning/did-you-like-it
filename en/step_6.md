@@ -10,7 +10,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 + Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face.
-![New scratch code including new machine learning blocks](images/code-with-new-blocks.png)
+![New scratch code: when flag clicked, switch costume to not sure, ask 'tell me what you thought', if recognise text (answer) label = positive then, switch costume to like](images/code-with-new-blocks.png)
 --- /task ---
 
 --- task ---
@@ -28,7 +28,7 @@ Make sure that you test that this works **even for messages that you didn’t in
 title: Show me how
 ---
 
-![Code to display the dislike face when there is a negative comment](images/negative-comment.png)
+![New Scratch code: If recognise text (answer) label = negative then, switch costume to dislike](images/negative-comment.png)
 
 --- /collapse ---
 
