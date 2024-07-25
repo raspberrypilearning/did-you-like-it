@@ -3,7 +3,17 @@
 Create a character that will react to what you say about a movie or book, either positive or negative.
 
 --- no-print ---
-![Complete project](images/did-you-like-it.gif)
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 177.78%;">
+      <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 50%; height: 50%; border: none;" src="https://www.youtube.com/embed/P_BFssCSiKY?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
+      </iframe>
+  </div>
+</html>
+
+
+
+
 --- /no-print ---
 
 
