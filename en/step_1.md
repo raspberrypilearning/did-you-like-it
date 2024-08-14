@@ -11,6 +11,15 @@ Create a character that will react to what you say about a movie or book, either
 
 --- /no-print ---
 
+--- collapse ---
+---
+title: No YouTube? Download the videos!
+---
+
+You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/did-you-like-it-go){:target="_blank"}. 
+
+
+--- /collapse ---
 
 --- collapse ---
 ---
