@@ -1,33 +1,31 @@
-## Add a list of rules
+## Example comments
 
-In this step, you will include a list of rules to change the costume to **like** or **dislike**.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/WBfF-dtTW_Y?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+Your machine learning model needs some examples of positive and negative comments people might make about movies or books. 
 
 --- task ---
-+ Click on the **Code** tab and enter the following code. 
-
-```blocks3
-when green flag clicked
-switch costume to (not sure v)
-ask [Type a comment about a recent movie you've seen or book you've read!] and wait
-if <(answer) = [I loved the characters]> then
-switch costume to (like v)
-end
-if <(answer) = [The adventure was boring]> then
-switch costume to (dislike v)
-end
-```
-
-+ Click on **File** and then on **Save to your computer** to save the program to a file.
++ Click on **+ Add new label** on the top right and create a label called `positive`.
 --- /task ---
 
 --- task ---
++ Click on **+ Add example** inside the box for the new `positive` label, and type in the nicest comment about a movie or book that you can think of. 
 
-+ Click on the **green flag** to test your program. 
-![Scratch interface just after green flag is clicked](images/test-rules-annotated.png)
-
-+ Type in a comment about a movie or book and watch it react! Type in `I loved the characters` and press <kbd>Enter</kbd>. The character will smile. Click on the green flag again, type in `The adventure was boring`, and press <kbd>Enter</kbd>. The character will cry. Type in anything else, press <kbd>Enter</kbd>, and the character’s face won’t change.
++ Repeat until you have added **at least six examples** of positive comments.
 --- /task ---
 
-You have created a character that should react to what people type in, and programmed it using a simple rules-based approach.
-If you want it to react to other messages, you would need to add more `if` blocks.
-The problem with this is that you would need to predict exactly what messages the character will receive — it would take forever to make a list of every possible message!
+--- task ---
++ Click on **+ Add new label** again, and this time create a label called `negative`.
+
++ Add **six examples** of negative comments. 
+--- /task ---
+
+![Six examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and six examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep".](images/example-messages.png)
+
+
+
+

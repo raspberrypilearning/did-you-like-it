@@ -1,48 +1,38 @@
-## Introduction
+## What you will make
 
-In this project, you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a character that will determine whether you liked or disliked a movie or book based on what you say. If you say something positive, it will smile. If you say something negative, it will cry.
-First, you will program a list of rules for understanding messages, and learn why that approach isn’t very good.
-Next, you will teach the computer to recognise messages as positive or negative by giving it examples of each.
+Create a character that will react to what you say about a movie or book, either positive or negative.
 
-### What you will make
---- no-print ---
-![Complete project](images/did-you-like-it.gif)
---- /no-print ---
+![A Scratch project with a large neutral emoji. There is a box to type in, and the emoji is asking you to tell it what you thought of a book or a movie.](images/whatyouwillmake.png)
 
---- print-only ---
-![Complete project](images/output-happy.png)
---- /print-only ---
+--- collapse ---
+
+---
+title: Where are my comments stored?
+---
+
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data. 
+- Our projects do not require you to create an account or log in. For our projects, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+--- /collapse ---
+
 --- collapse ---
 ---
-title: What you will learn
+title: No YouTube? Download the videos!
 ---
 
-+ How to train and test a machine learning model
-+ Why this approach is better than using a long list of rules
-+ How to use a trained model in a Scratch 3 program
+You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/did-you-like-it-go){:target="_blank"}. 
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will need
+title: License
 ---
 
-+ A computer connected to the internet
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/did-you-like-it/print){:target="_blank"}.
-
---- /collapse ---
-
-### Licence
-
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+
+--- /collapse ---
+
+

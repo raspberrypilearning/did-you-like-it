@@ -1,39 +1,34 @@
-## Collect examples for training
+## Train the model
 
-Next, try a better approach: teaching the computer to recognise messages for itself.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/y-Cf153mlwo?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ Close the Scratch window and go back to the Machine Learning for Kids website.
-
-+ Click on **< Back to project**.
---- /task ---
-
---- task ---
-+ You need to collect some examples to train the computer. Click the **Train** button.
-![Project main menu](images/project-make.png)
-
-+ Click on **+ Add new label** and call it `positive comments`.  Do that again, and create a second bucket called `negative comments`. 
-![2 empty classes named positive_comments and negative_comments](images/positive-and-negative.png)
-
-+ Click on the **Add example** button in the **positive comments** bucket, and type in the nicest comment about a movie or book that you can think of. 
-
-+ Click on the **Add example** button in the **negative comments** bucket, and type in the meanest comment about a movie or book that you can think of. 
---- /task ---
+You have gathered the examples you need, now you will use these examples to train your machine learning model.
 
 --- task ---
-+ Continue to **Add examples** until you have got at least **six** compliments and **six** insults.
-![6 examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and 6 examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep"](images/example-messages.png)
 
---- collapse ---
----
-title: Tips for creating good examples
----
-+ **More is good**: The more examples you give your program, the better the program should get at determining whether your comments are positive or negative. 
++ Click on **Back to project** in the top left-hand corner.
 
-+ **Equal numbers**: Add roughly the same number of examples for each type of comment. If you have a lot of examples for one type and not the other, this can affect the way that the program learns to recognise them. 
++ Click on **Learn & Test**.
 
-+ **Make the examples really different from each other**: Try to think of lots of different types of example. For example, make sure that you include some long examples and some very short ones.
- 
---- /collapse ---
++ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete.
+![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
+
 --- /task ---
+
+Once the training has finished, you can test how well your model recognises whether a comment is positive or negative. Make sure you test examples that you haven’t used before. 
+
+--- task ---
+
++ Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
++ Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
+
+![The text 'The movie was really exciting' recognised as positive with 87% confidence.](images/movie-exciting.png)
+
+--- /task ---
+
+If you are not happy with how the model recognises the comments, go back to the **Train** page and add more examples, then train your model again.
 
