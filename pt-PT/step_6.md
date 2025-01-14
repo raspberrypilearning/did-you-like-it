@@ -11,13 +11,22 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 ![New blocks](images/new-blocks-menu.png)
 
 --- task ---
-+ Click on the **Code** tab. --- /task ---
+
++ Click on the **Code** tab.
+
+--- /task ---
 
 --- task ---
-+ Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face. ![New scratch code: when flag clicked, switch costume to not sure, ask 'tell me what you thought', if recognise text (answer) label = positive then, switch costume to like](images/code-with-new-blocks.png) --- /task ---
+
++ Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face. ![New scratch code: when flag clicked, switch costume to not sure, ask 'tell me what you thought', if recognise text (answer) label = positive then, switch costume to like](images/code-with-new-blocks.png)
+
+--- /task ---
 
 --- task ---
-+ Click on the **green flag** to test your project. Type in a nice message and press <kbd>Enter</kbd>. The character should smile. --- /task ---
+
++ Click on the **green flag** to test your project. Type in a nice message and press <kbd>Enter</kbd>. The character should smile.
+
+--- /task ---
 
 Make sure that you test that this works **even for messages that you didn’t include in your training examples**.
 
@@ -37,5 +46,8 @@ title: Show me how
 --- /task ---
 
 --- task ---
-+ Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad. --- /task ---
+
++ Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad.
+
+--- /task ---
 
