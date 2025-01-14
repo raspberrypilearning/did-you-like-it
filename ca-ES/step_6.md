@@ -1,26 +1,41 @@
-## Use your machine learning model in Scratch
+## Show a reaction
 
-Now, update your Scratch program to include your machine learning model instead of a rules-based approach.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/h6UBW0pWxmI?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ Click on **< Back to project**.
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
 
-+ Click on **Make**.
-
-+ Click on **Scratch 3**.
-
-+ Click the **Open in Scratch 3** button to launch the Scratch editor. You should see new blocks from your project at the bottom of the list. ![New machine learning blocks in Scratch 3](images/new-blocks.png)
-
-+ Load the Scratch project that you saved earlier: click on **File**, then on **Load from your computer**, then select the Scratch project that you saved earlier. --- /task ---
+![New blocks](images/new-blocks-menu.png)
 
 --- task ---
-+ Click on the **Code** tab, then update your Scratch code to use your machine learning model **instead** of the rules that you added earlier. The `recognise text … (label)` block is a new block added by your project. If you give it text, it will return return either `positive comments` or `negative comments` based on the training that you’ve given to the computer. You can use this to choose the costume to switch to. ![New scratch code including new machine learning blocks](images/code-with-new-blocks.png) --- /task ---
++ Click on the **Code** tab. --- /task ---
 
 --- task ---
-+ Click on the **green flag** to test your project again. ![Testing new code from previous instruction](images/test-ml-model-annotated.png)
++ Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face. ![New scratch code: when flag clicked, switch costume to not sure, ask 'tell me what you thought', if recognise text (answer) label = positive then, switch costume to like](images/code-with-new-blocks.png) --- /task ---
 
-+ Type in a nice message and press <kbd>Enter</kbd>. The character should smile. Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad. Make sure that you test that this works **even for messages that you didn’t include in your training.** ![Output with sad costume](images/output-sad.png)
+--- task ---
++ Click on the **green flag** to test your project. Type in a nice message and press <kbd>Enter</kbd>. The character should smile. --- /task ---
 
-+ Save your project: click on **File**, then on **Save to your computer**. --- /task ---
+Make sure that you test that this works **even for messages that you didn’t include in your training examples**.
 
-You have now modified your Scratch character to use machine learning instead of your earlier rules-based approach. Training the computer to be able to recognise messages for itself should be much quicker than trying to make a list of every possible message. The more examples you give it, the better it should get at recognising messages correctly.
+--- task ---
+
++ Add some more code so that `if` the model recognises a negative comment, it displays the `dislike` costume.
+
+--- collapse ---
+---
+title: Show me how
+---
+
+![New Scratch code: If recognise text (answer) label = negative then, switch costume to dislike](images/negative-comment.png)
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
++ Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad. --- /task ---
+
