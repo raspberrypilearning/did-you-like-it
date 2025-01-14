@@ -1,26 +1,41 @@
-## Gebruik je machine learning-model in Scratch
+## Show a reaction
 
-Werk nu je Scratch-programma bij met je machine learning-model in plaats van een op regels gebaseerde aanpak.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/h6UBW0pWxmI?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ Klik op **< Terug naar project**.
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
 
-+ Klik op **Maak**.
-
-+ Klik op **Scratch 3**.
-
-+ Klik op de knop **Open in Scratch 3** om de Scratch-editor te starten. Je zou de nieuwe blokken van je project onderaan de lijst moeten zien. ![Nieuwe machine learning blokken in Scratch 3](images/new-blocks.png)
-
-+ Laad het Scratch-project dat je eerder hebt opgeslagen: klik op **Bestand**en vervolgens op **Uploaden van je computer** en selecteer vervolgens het Scratch-project dat je eerder hebt opgeslagen. --- /task ---
+![New blocks](images/new-blocks-menu.png)
 
 --- task ---
-+ Klik op het tabblad **Code** en werk vervolgens je Scratch-code bij om je machine learning-model te gebruiken **in plaats van** de regels die je eerder hebt toegevoegd. Het blok `herken tekst … (label)` is een nieuw blok dat door je project is toegevoegd. Als je tekst ingeeft, retourneert het ofwel `positieve opmerkingen` of `negatieve opmerkingen` op basis van de training die je aan de computer hebt gegeven. Je kunt dit gebruiken om het uiterlijk te kiezen om naar over te schakelen. ![New scratch code including new machine learning blocks](images/code-with-new-blocks.png) --- /task ---
++ Click on the **Code** tab. --- /task ---
 
 --- task ---
-+ Klik op de **groene vlag** om je project opnieuw te testen. ![Testen van nieuwe code van vorige instructie](images/test-ml-model-annotated.png)
++ Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face. ![New scratch code: when flag clicked, switch costume to not sure, ask 'tell me what you thought', if recognise text (answer) label = positive then, switch costume to like](images/code-with-new-blocks.png) --- /task ---
 
-+ Typ een leuk bericht en druk op <kbd>Enter</kbd>. Het karakter moet glimlachen. Klik opnieuw op de **groene vlag**. Typ een negatief bericht en druk op <kbd>Enter</kbd>. Het karakter moet er verdrietig uitzien. Zorg ervoor dat je test of dit werkt **zelfs voor berichten die je niet in je training hebt opgenomen.** ![Weergave met niet leuk uiterlijk](images/output-sad.png)
+--- task ---
++ Click on the **green flag** to test your project. Typ een leuk bericht en druk op <kbd>Enter</kbd>. Het karakter moet glimlachen. --- /task ---
 
-+ Sla je project op: klik op **Bestand**en vervolgens op **Opslaan op je computer**. ---/task---
+Make sure that you test that this works **even for messages that you didn’t include in your training examples**.
 
-Je hebt nu je Scratch-personage aangepast om machine learning te gebruiken in plaats van je eerdere, op regels gebaseerde aanpak. De computer trainen om berichten zelf te kunnen herkennen zou veel sneller moeten zijn dan proberen een lijst te maken van alle mogelijke berichten. Hoe meer voorbeelden je geeft, hoe beter het zou moeten zijn om berichten correct te herkennen.
+--- task ---
+
++ Add some more code so that `if` the model recognises a negative comment, it displays the `dislike` costume.
+
+--- collapse ---
+---
+title: Show me how
+---
+
+![New Scratch code: If recognise text (answer) label = negative then, switch costume to dislike](images/negative-comment.png)
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
++ Klik opnieuw op de **groene vlag**. Typ een negatief bericht en druk op <kbd>Enter</kbd>. Het karakter moet er verdrietig uitzien. --- /task ---
+
