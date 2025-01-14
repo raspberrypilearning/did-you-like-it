@@ -1,3 +1,3 @@
-## Wat kun je verder nog doen?
+## What can you do now?
 
-Als je dit project leuk vond, probeer dan eens een van onze andere [machine learning-projecten](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning){:target="_blank"}?
+There are lots of other machine learning and AI projects in the [Machine learning with Scratch](https://projects.raspberrypi.org/en/pathways/scratch-machine-learning) pathway.
