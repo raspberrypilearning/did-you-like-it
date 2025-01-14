@@ -1,33 +1,33 @@
-## Verzamel voorbeelden voor training
+## Train the model
 
-Probeer vervolgens een betere aanpak: leer de computer berichten zelf te herkennen.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/y-Cf153mlwo?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ Sluit het Scratch-venster en ga terug naar de website Machine Learning for Kids.
-
-+ Klik op **< Terug naar project**. --- /task ---
-
---- task ---
-+ Je moet enkele voorbeelden verzamelen om de computer te trainen. Klik op de knop **Train**. ![Project hoofdmenu](images/project-make.png)
-
-+ Klik op **+ Voeg een nieuw label toe** en noem het `positieve opmerkingen`.  Doe dat nog een keer en maak een tweede container met de naam `negatieve opmerkingen` aan. ![2 lege containers met de naam positieve_opmerkingen en negatieve_opmerkingen](images/positive-and-negative.png)
-
-+ Klik op de knop **Voeg een voorbeeld toe** in de container voor **positieve opmerkingen** en typ de leukste opmerking over een film of boek die je maar kunt bedenken.
-
-+ Klik op de knop **Voeg een voorbeeld toe** in de container met **negatieve opmerkingen** en typ de gemeenste opmerking over een film of boek die je maar kunt bedenken. ---/task---
+You have gathered the examples you need, now you will use these examples to train your machine learning model.
 
 --- task ---
-+ Ga verder naar **Voeg een nieuw label toe** totdat je minstens **zes** complimenten en **zes** beledigingen hebt. ![6 voorbeelden van positieve reacties: "De cast was geweldig", "De plot was geweldig", "De scènes waren geweldig", "Het verhaal wekte mijn verbeelding", "Ik hield van de hoofdpersoon", "De soundtrack was vet" en 6 voorbeelden van negatieve opmerkingen: "De cast was verschrikkelijk", "De verhaal was onlogisch", "De scènes waren te donker", "Het verhaal was saai", "Ik haatte de hoofdpersoon", "Ik viel in slaap door de soundtrack"](images/example-messages.png)
 
---- collapse ---
----
-title: Tips voor het maken van goede voorbeelden
----
-+ **Hoe meer hoe beter**: hoe meer voorbeelden je geeft aan jouw programma, hoe beter het programma zal worden in het bepalen of je opmerkingen positief of negatief zijn.
++ Click on **Back to project** in the top left-hand corner.
 
-+ **Gelijke aantallen**: voeg ongeveer hetzelfde aantal voorbeelden toe voor elk type opmerking. Als je veel voorbeelden hebt voor het ene type en weinig voor de andere, kan dit van invloed zijn op de manier waarop het programma ze leert herkennen.
++ Click on **Learn & Test**.
 
-+ **Maak de voorbeelden echt verschillend van elkaar**: Probeer veel verschillende soorten voorbeelden te bedenken. Zorg er bijvoorbeeld voor dat je enkele lange en enkele zeer korte voorbeelden toevoegt.
++ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
 
---- /collapse --- --- /task ---
+--- /task ---
+
+Once the training has finished, you can test how well your model recognises whether a comment is positive or negative. Make sure you test examples that you haven’t used before.
+
+--- task ---
+
++ Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
++ Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
+
+![The text 'The movie was really exciting' recognised as positive with 87% confidence.](images/movie-exciting.png)
+
+---/task---
+
+If you are not happy with how the model recognises the comments, go back to the **Train** page and add more examples, then train your model again.
 
