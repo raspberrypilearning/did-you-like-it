@@ -1,21 +1,39 @@
-## Train en test je machine learning-model
+## Create an emoji
 
-In deze stap train je jouw machine om te herkennen of je opmerking positief of negatief is en plaats je deze automatisch in een van de twee containers op basis van de voorbeelden die je hebt toegevoegd.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/RIz7WHhlBnQ?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+Now that your model can distinguish between positive and negative comments, you can use it in a Scratch program to show an emoji reaction.
 
 --- task ---
-+ Klik op **< Terug naar project**en vervolgens op **Leer & Test**.
++ Click on the **< Back to project** link.
 
-+ Klik op de knop **Train nieuwe machine learning model**. Als je genoeg voorbeelden hebt, zou het programma moeten beginnen met uit de voorbeelden die je hebt gegeven te leren hoe reacties als positief of negatief te herkennen.
++ Click on **Make**.
 
-![Annotatie die wijst op de knop voor het trainen van het nieuwe model voor machine learning](images/click-train-annotated.png) ---/task---
++ Click on **Scratch 3**.
 
-Wacht tot de training is voltooid. Dit kan een paar minuten duren.
++ Click on **Open in Scratch 3**.
 
---- task --- Nadat de training is voltooid, wordt een test vak weergegeven. Probeer je machine learning-model te testen om te zien wat het heeft geleerd.
-+ Typ iets leuks en druk op <kbd>Enter</kbd>. Het moet als positief worden herkend.
-+ Typ iets kritisch en druk op <kbd>Enter</kbd>. Het moet als negatief worden herkend.
-+ Test het met voorbeelden die je de computer nog niet eerder hebt getoond.
+---/task---
 
-Als je niet tevreden bent met hoe de computer de opmerkingen herkent, ga je terug naar de vorige stap en voeg je nog enkele voorbeelden toe. Zorg ervoor dat je deze stappen herhaalt om je computer te trainen met de nieuwe voorbeelden! ![Annotation pointing to train new machine learning model button](images/test-model-annotated.png) --- /task ---
+--- task ---
++ Delete the cat sprite. ![Deleting default sprite](images/delete-cat.png) --- /task ---
 
-Je bent begonnen met het trainen van een computer om tekst te herkennen als positief of negatief. In plaats van te proberen regels te schrijven om dit te kunnen doen, doe je dit door voorbeelden te verzamelen. Deze voorbeelden worden gebruikt om een machine learning-**'model'** te trainen. Dit wordt **supervised learning (begeleid leren)** genoemd vanwege de manier waarop je toezicht houdt op de training van de computer. De computer leert van patronen in de voorbeelden die je hebt gegeven, zoals de woordkeuze en de manier waarop zinnen zijn gestructureerd. Deze worden gebruikt om nieuwe berichten te herkennen. 
+--- task ---
++ Open the new sprite menu and click on the **Paint** icon to create a new sprite. ![Open the new sprite menu and select Paint](images/click-paint.png) --- /task ---
+
+--- task ---
++ Draw a face without a mouth. ![Draw a face without a mouth](images/draw-face.png) --- /task ---
+
+--- task ---
++ Right-click on the costume and click on **duplicate** to create a copy. Repeat one more time so that you have **three** copies of the costume. ![Right click on the face costume you just drew and click duplicate](images/duplicate-costume.png) --- /task ---
+
+--- task ---
++ To rename a costume, type a new name into the white box. Name the three costumes `not sure`, `like`, and `dislike`. ![With a costume selected, type the costume name in the white box](images/costume-name.png) --- /task ---
+
+--- task ---
++ Draw a mouth on each of the costumes to represent each emotion. ![Draw a mouth on each costume to represent an emotion](images/draw-mouths.png) --- /task ---
+
