@@ -13,7 +13,8 @@
 + Click on **Get started**.
 
 + Click on **Try it now**.
-+ --- /task ---
+
+--- /task ---
 
 --- task ---
 
