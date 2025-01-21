@@ -1,0 +1,32 @@
+1
+00:00:04,233 --> 00:00:07,066
+Now go back, and this time click on 'make'.
+
+2
+00:00:07,232 --> 00:00:10,098
+You're going to open your model in Scratch 3.
+
+3
+00:00:11,498 --> 00:00:14,531
+Delete the cat and paint a new sprite.
+
+4
+00:00:17,897 --> 00:00:22,229
+Draw a large emoji with eyes, but don't draw a mouth.
+
+5
+00:00:25,362 --> 00:00:29,894
+Now right click your costume and duplicate it so that you have three the same.
+
+6
+00:00:30,028 --> 00:00:36,893
+Rename each costume so that you have the costumes 'not sure', 'like' and 'dislike'.
+
+7
+00:00:38,459 --> 00:00:41,992
+And then, draw a mouth to represent each feeling
+
+8
+00:00:42,025 --> 00:00:46,918
+so you end up with three different costumes.
+
