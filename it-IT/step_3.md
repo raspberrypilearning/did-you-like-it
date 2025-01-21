@@ -11,14 +11,16 @@ Your machine learning model needs some examples of positive and negative comment
 --- task ---
 
 + Click on **+ Add new label** on the top right and create a label called `positive`.
-+ --- /task ---
+
+--- /task ---
 
 --- task ---
 
 + Click on **+ Add example** inside the box for the new `positive` label, and type in the nicest comment about a movie or book that you can think of.
 
 + Repeat until you have added **at least six examples** of positive comments.
-+ --- /task ---
+
+--- /task ---
 
 --- task ---
 
