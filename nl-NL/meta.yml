@@ -3,7 +3,7 @@ title: Vond je het leuk?
 hero_image: images/banner.png
 description: Maak een machine learning-model dat op basis van je opmerkingen bepaalt of je een film of boek leuk vond.
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: '2024-06-19'
 steps:
@@ -23,10 +23,9 @@ steps:
     title: Show a reaction
     completion:
       - internal
+      - external
   - 
     title: 'Challenge'
     challenge: true
   - 
     title: What can you do now?
-    completion:
-      - external
