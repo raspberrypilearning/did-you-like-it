@@ -1,4 +1,4 @@
-## Train the model
+## Entraîner le modèle
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,28 +6,28 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Tu as rassemblé les exemples dont tu as besoin, tu vas maintenant utiliser ces exemples pour entraîner ton modèle d'apprentissage automatique.
 
 --- task ---
 
-+ Click on **Back to project** in the top left-hand corner.
++ Clique sur **Revenir au projet** dans le coin supérieur gauche.
 
-+ Click on **Learn & Test**.
++ Clique sur **Apprendre & Tester**.
 
-+ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
++ Clique sur le bouton **Entraîner un nouveau modèle d'apprentissage machine**. Cela peut prendre quelques minutes. ![Flèche pointant vers un bouton indiquant Entraîner un nouveau modèle d'apprentissage machine](images/train-new-model.png)
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises whether a comment is positive or negative. Make sure you test examples that you haven’t used before.
+Une fois l'entraînement terminé, tu peux tester dans quelle mesure ton modèle reconnaît si un commentaire est positif ou négatif. Assure-toi de tester des exemples que tu n'as jamais utilisés auparavant.
 
 --- task ---
 
-+ Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
-+ Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
++ Tape quelque chose de sympa, et appuie sur <kbd>Entrée</kbd>. Il devrait être reconnu comme positif.
++ Tape quelque chose de critique, et appuie sur <kbd>Entrée</kbd>. Il devrait être reconnu comme négatif.
 
-![The text 'The movie was really exciting' recognised as positive with 87% confidence.](images/movie-exciting.png)
+![Le texte "Le film était vraiment génial" reconnu comme positif avec 87 % de confiance.](images/movie-exciting.png)
 
 --- /task ---
 
-If you are not happy with how the model recognises the comments, go back to the **Train** page and add more examples, then train your model again.
+Si tu n'es pas satisfait·e de la façon dont le modèle reconnaît les commentaires, retourne à la page **Entraîner** et ajoute d'autres exemples, puis entraîne ton modèle à nouveau.
 
