@@ -1,31 +1,31 @@
 1
 00:00:05,840 --> 00:00:18,800
-Head on over to the 'code' tab and drag 
-in the code blocks to ask for a comment.
+Rends-toi dans l'onglet « code » et fais glisser 
+dans les blocs de code pour demander un commentaire.
 
 2
 00:00:18,800 --> 00:00:27,120
-If the comment is positive, display a smiley face.
+Si le commentaire est positif, affiche un smiley.
 
 3
 00:00:27,120 --> 00:00:29,960
-Test your program by typing in a positive comment
+Teste ton programme en tapant un commentaire positif
 
 4
 00:00:31,960 --> 00:00:37,560
-...and you should see a smiley face!
+...et tu devrais voir un visage souriant !
 
 5
 00:00:37,560 --> 00:00:44,800
-Now add some more code to display a 
-sad face if the comment was negative.
+Ajoute maintenant un peu de code supplémentaire pour afficher un 
+visage triste si le commentaire était négatif.
 
 6
 00:00:44,800 --> 00:00:51,640
-This time when you test, 
-say that you didn't like it
+Cette fois, lorsque tu testes, 
+dis que tu n'as pas aimé
 
 7
 00:00:51,640 --> 00:00:59,920
-...and you should see a sad face.
+...et tu devrais voir un visage triste.
 
