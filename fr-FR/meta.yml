@@ -1,32 +1,30 @@
 ---
-title: Did you like it?
+title: As-tu aimé ?
 hero_image: images/banner.png
-description: Create a machine learning model that will determine whether you liked a movie or book based on your comments.
+description: Crée un modèle d’apprentissage automatique qui déterminera si tu as aimé un film ou un livre en fonction de tes commentaires.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2024-06-19'
 steps:
   - 
-    title: What you will make
+    title: Ce que tu vas faire
   - 
-    title: Set up the project
+    title: Configurer le projet
   - 
-    title: Example comments
+    title: Exemple de commentaires
     completion:
       - engaged
   - 
-    title: Train the model
+    title: Entraîner le modèle
   - 
-    title: Create an emoji
+    title: Créer un emoji
   - 
-    title: Show a reaction
+    title: Afficher une réaction
     completion:
       - internal
   - 
-    title: 'Challenge'
+    title: 'Défi'
     challenge: true
-  - 
-    title: What can you do now?
     completion:
       - external
