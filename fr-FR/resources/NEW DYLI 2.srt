@@ -1,21 +1,21 @@
 1
 00:00:05,000 --> 00:00:09,600
-Add a label called 'positive'.
+Ajoute une étiquette appelée « positif ».
 
 2
 00:00:09,600 --> 00:00:15,400
-Then, type an example of a positive 
-comment about a book or a movie.
+Ensuite, tape un exemple de commentaire positif 
+sur un livre ou un film.
 
 3
 00:00:15,400 --> 00:00:20,240
-Add more examples until you have six.
+Ajoute d’autres exemples jusqu’à ce que tu en aies six.
 
 4
 00:00:20,240 --> 00:00:24,520
-Next, add a label for negative
+Ensuite, ajoute une étiquette pour négatif
 
 5
 00:00:24,520 --> 00:00:29,960
-and add six examples of negative comments too.
+et ajoute également six exemples de commentaires négatifs.
 
