@@ -1,4 +1,4 @@
-## Example comments
+## Exemple de commentaires
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,31 +6,31 @@
   </div>
 </html>
 
-Your machine learning model needs some examples of positive and negative comments people might make about movies or books.
+Ton modèle d’apprentissage automatique a besoin d’exemples de commentaires positifs et négatifs que les gens pourraient faire à propos de films ou de livres.
 
 --- task ---
 
-+ Click on **+ Add new label** on the top right and create a label called `positive`.
++ Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite de l'écran et ajoute une étiquette appelée `positif`.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add example** inside the box for the new `positive` label, and type in the nicest comment about a movie or book that you can think of.
++ Clique sur **+ Ajouter un exemple** à l'intérieur de la case pour la nouvelle étiquette `positif`, et tape le commentaire le plus gentil sur un film ou un livre auquel tu peux penser.
 
-+ Repeat until you have added **at least six examples** of positive comments.
++ Répète jusqu'à ce que tu aies ajouté **au moins six exemples** de commentaires positifs.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add new label** again, and this time create a label called `negative`.
++ Clique à nouveau sur **+ Ajouter une nouvelle étiquette**, et cette fois crée une étiquette appelée `negatif`.
 
-+ Add **six examples** of negative comments.
++ Ajoute **six exemples** de commentaires négatifs.
 
 --- /task ---
 
-![Six examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and six examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep".](images/example-messages.png)
+![Six exemples de commentaires positifs : "Les acteurs étaient génaux", "L'intrigue était géniale", "Les scènes étaient magnifiques", "L'histoire a stimulé mon imagination", "J'ai adoré le personnage principal", "La bande-son déchirait" et six exemples de commentaires négatifs : "Les acteurs étaient mauvais", "L'intrigue n'avait ni queue ni tête", "Les scènes étaient trop sombres", "L'histoire était ennuyante", "J'ai détesté le personnage principal", "La bande-son était soporifique".](images/example-messages.png)
 
 
 
