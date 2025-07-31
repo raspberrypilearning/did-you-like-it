@@ -1,13 +1,13 @@
 1
 00:00:04,080 --> 00:00:09,560
-Go to rpf.io/ML4K and click 'Try it now'.
+Va sur rpf.io/ML4K et clique sur « Essayer maintenant ».
 
 2
 00:00:09,560 --> 00:00:22,600
-Add a new project that recognises English 
-text, and set the storage to 'in your browser'.
+Ajoute un nouveau projet qui reconnaît le texte en français 
+et définis le stockage sur « Dans votre navigateur ».
 
 3
 00:00:22,600 --> 00:00:29,280
-Now click on 'Train'.
+Clique maintenant sur « Entraîner ».
 
