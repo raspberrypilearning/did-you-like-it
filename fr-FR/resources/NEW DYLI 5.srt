@@ -1,0 +1,31 @@
+1
+00:00:05,840 --> 00:00:18,800
+Rends-toi dans l'onglet « code » et fais glisser 
+dans les blocs de code pour demander un commentaire.
+
+2
+00:00:18,800 --> 00:00:27,120
+Si le commentaire est positif, affiche un smiley.
+
+3
+00:00:27,120 --> 00:00:29,960
+Teste ton programme en tapant un commentaire positif
+
+4
+00:00:31,960 --> 00:00:37,560
+...et tu devrais voir un visage souriant !
+
+5
+00:00:37,560 --> 00:00:44,800
+Ajoute maintenant un peu de code supplémentaire pour afficher un 
+visage triste si le commentaire était négatif.
+
+6
+00:00:44,800 --> 00:00:51,640
+Cette fois, lorsque tu testes, 
+dis que tu n'as pas aimé
+
+7
+00:00:51,640 --> 00:00:59,920
+...et tu devrais voir un visage triste.
+
