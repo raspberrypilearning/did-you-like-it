@@ -1,6 +1,6 @@
 1
 00:00:04,080 --> 00:00:09,560
-Go to rpf.io/ML4K and click 'Try it now'.
+Go to rpf.io/ml4k and click 'Try it now'.
 
 2
 00:00:09,560 --> 00:00:22,600
