@@ -1,0 +1,13 @@
+1
+00:00:04,080 --> 00:00:09,560
+Va sur rpf.io/ml4k et clique sur « Essayer maintenant ».
+
+2
+00:00:09,560 --> 00:00:22,600
+Ajoute un nouveau projet qui reconnaît le texte en français 
+et définis le stockage sur « Dans votre navigateur ».
+
+3
+00:00:22,600 --> 00:00:29,280
+Clique maintenant sur « Entraîner ».
+

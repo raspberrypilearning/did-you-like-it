@@ -1,0 +1,23 @@
+---
+title: As-tu aimé ?
+hero_image: images/banner.png
+description: Crée un modèle d’apprentissage automatique qui déterminera si tu as aimé un film ou un livre en fonction de tes commentaires.
+version: 4
+listed: true
+copyedit: false
+last_tested: '2024-06-19'
+steps:
+- title: Ce que tu vas faire
+- title: Configurer le projet
+- title: Exemple de commentaires
+  completion:
+  - engaged
+- title: Entraîner le modèle
+- title: Créer un emoji
+- title: Afficher une réaction
+  completion:
+  - internal
+- title: 'Défi'
+  challenge: true
+  completion:
+  - external
