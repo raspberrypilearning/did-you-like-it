@@ -1,4 +1,4 @@
-## Create an emoji
+## Créer un emoji
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,53 +6,53 @@
   </div>
 </html>
 
-Now that your model can distinguish between positive and negative comments, you can use it in a Scratch program to show an emoji reaction.
+Maintenant que ton modèle peut faire la distinction entre les commentaires positifs et négatifs, tu peux l’utiliser dans un programme Scratch pour afficher une réaction emoji.
 
 --- task ---
 
-+ Click on the **< Back to project** link.
++ Clique sur le lien **< Revenir au projet**.
 
-+ Click on **Make**.
++ Clique sur **Faire**.
 
-+ Click on **Scratch 3**.
++ Clique sur **Scratch 3**.
 
-+ Click on **Open in Scratch 3**.
++ Clique sur **Ouvrir dans Scratch 3**.
 
 --- /task ---
 
 --- task ---
 
-+ Delete the cat sprite. ![Deleting default sprite](images/delete-cat.png)
++ Supprime le sprite chat.![Suppression du sprite par défaut](images/delete-cat.png)
 
 --- /task ---
 
 --- task ---
 
-+ Open the new sprite menu and click on the **Paint** icon to create a new sprite. ![Open the new sprite menu and select Paint](images/click-paint.png)
++ Ouvre le nouveau menu sprite et clique sur l'icône **Peindre** pour créer un nouveau sprite. ![Ouvre le nouveau menu sprite et sélectionne Peindre](images/click-paint.png)
 
 --- /task ---
 
 --- task ---
 
-+ Draw a face without a mouth. ![Draw a face without a mouth](images/draw-face.png)
++ Dessine un visage sans bouche. ![Dessine un visage sans bouche](images/draw-face.png)
 
 --- /task ---
 
 --- task ---
 
-+ Right-click on the costume and click on **duplicate** to create a copy. Repeat one more time so that you have **three** copies of the costume. ![Right click on the face costume you just drew and click duplicate](images/duplicate-costume.png)
++ Fais un clic droit sur le costume, puis clique sur **dupliquer** pour créer une copie. Répète une fois de plus pour avoir **trois** copies du costume. ![Fais un clic droit sur le costume du visage que tu viens de dessiner et clique sur Dupliquer](images/duplicate-costume.png)
 
 --- /task ---
 
 --- task ---
 
-+ To rename a costume, type a new name into the white box. Name the three costumes `not sure`, `like`, and `dislike`. ![With a costume selected, type the costume name in the white box](images/costume-name.png)
++ Pour renommer un costume, tape un nouveau nom dans la case blanche. Nomme les trois costumes `neutre`, `aime`, et `aime pas`. ![Avec un costume sélectionné, tape le nom du costume dans la case blanche](images/costume-name.png)
 
 --- /task ---
 
 --- task ---
 
-+ Draw a mouth on each of the costumes to represent each emotion. ![Draw a mouth on each costume to represent an emotion](images/draw-mouths.png)
++ Dessine une bouche sur chacun des costumes pour représenter chaque émotion. ![Dessine une bouche sur chaque costume pour représenter une émotion](images/draw-mouths.png)
 
 --- /task ---
 
