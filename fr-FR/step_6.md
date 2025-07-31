@@ -1,4 +1,4 @@
-## Show a reaction
+## Afficher une réaction
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,40 +6,40 @@
   </div>
 </html>
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids a ajouté des blocs spéciaux à Scratch pour te permettre d'utiliser le modèle que tu viens d'entraîner. Trouve-les en bas de la liste des blocs.
 
-![New blocks](images/new-blocks-menu.png)
+![Nouveaux blocs](images/new-blocks-menu.png)
 
 --- task ---
 
-+ Click on the **Code** tab.
++ Clique sur l'onglet **Code**.
 
 --- /task ---
 
 --- task ---
 
-+ Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face. ![New scratch code: when flag clicked, switch costume to not sure, ask 'tell me what you thought', if recognise text (answer) label = positive then, switch costume to like](images/code-with-new-blocks.png)
++ Ajoute du code pour demander au modèle de reconnaître si le texte est positif. Si c'est le cas, l'emoji affichera le visage `aime`. ![Nouveau code Scratch : quand le drapeau est cliqué, basculer sur le costume neutre, demander "Dis-moi ce que tu as pensé du film ou du livre", si reconnaître texte (réponse) label = positif, alors basculer sur le costume aime](images/code-with-new-blocks.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **green flag** to test your project. Type in a nice message and press <kbd>Enter</kbd>. The character should smile.
++ Clique sur le drapeau **vert** pour tester ton projet. Tape un beau message et appuie sur <kbd>Entrée</kbd>. Le personnage devrait sourire.
 
 --- /task ---
 
-Make sure that you test that this works **even for messages that you didn’t include in your training examples**.
+Assure-toi de tester que cela fonctionne **même pour les messages que tu n'as pas inclus dans tes exemples d'entraînement**.
 
 --- task ---
 
-+ Add some more code so that `if` the model recognises a negative comment, it displays the `dislike` costume.
++ Ajoute un peu de code supplémentaire pour que `si` le modèle reconnaît un commentaire négatif, il affiche le costume `aime pas`.
 
 --- collapse ---
 ---
-title: Show me how
+title: Montre-moi comment
 ---
 
-![New Scratch code: If recognise text (answer) label = negative then, switch costume to dislike](images/negative-comment.png)
+![Nouveau code Scratch : si reconnaître texte (réponse) = negatif, alors basculer sur le costume aime pas](images/negative-comment.png)
 
 --- /collapse ---
 
@@ -47,7 +47,7 @@ title: Show me how
 
 --- task ---
 
-+ Click on the **green flag** again. Type in a negative message and press <kbd>Enter</kbd>. The character should look sad.
++ Clique à nouveau sur le **drapeau vert**. Tape un message négatif et appuie sur <kbd>Entrée</kbd>. Le personnage devrait avoir l’air triste.
 
 --- /task ---
 
