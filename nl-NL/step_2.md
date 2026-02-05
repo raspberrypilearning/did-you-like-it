@@ -1,36 +1,41 @@
-## Maak een project en sprite uiterlijken
+## Het project opzetten
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/qD3ZlC_yzxA?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
 --- task ---
+
 + Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in een webbrowser.
 
 + Klik op **Begin**.
 
-+ Klik op **Probeer nu**. --- /task ---
++ Klik op **Probeer nu**.
+
+--- /task ---
 
 --- task ---
+
++ Klik op **Projecten** in de menubalk bovenaan.
+
 + Klik op de knop **+ Voeg een nieuw project toe**.
 
-+ Noem jouw project `Vond je het leuk` en stel Herkenning in op `tekst` en zet de Taal op Dutch (Nederlands).  Klik op **Creëer**. ![Een project maken](images/create-project.png)
++ Geef je project de naam `Vond je het leuk`, stel het in om tekst te leren herkennen **** in het Nederlands (Dutch) en sla gegevens op**in je webbrowser**. Klik op**Creëer**.
+![Een project maken](images/create-new-project.png)
 
-+ Je zou nu `Vond je het leuk` in de projectenlijst moeten zien. Klik op je project. --- /task ---
++ Je zou nu 'Vond je het leuk' in de projectenlijst moeten zien. Klik op je project.
+![Projectlijst met 'Vond je het leuk' vermeld](images/projects-list.png)
+
+--- /task ---
 
 --- task ---
-+ Maak nu een project klaar in Scratch.
 
-+ Klik op **Maak**. ![Project hoofdmenu](images/project-make.png)
++ Klik op de knop **Train**.
+![Project hoofdmenu met een pijl naar de Train button](images/project-train.png)
 
-+ Klik op **Scratch 3**.
+--- /task ---
 
-+ De pagina waarschuwt je vervolgens dat je nog geen machine learning hebt uitgevoerd. Klik op **Scratch automatisch starten** om Scratch te starten.
 
-+ Verwijder de katten sprite. ![Standaard sprite verwijderen](images/delete-cat-annotated.png)
 
-+ Ga naar het kies een sprite-menu en klik op het pictogram **Teken** om een nieuwe sprite te maken. ![Teken een nieuwe sprite](images/click-paint-annotated.png)
-
-+ Teken een gezicht zonder mond. ![Teken een gezicht zonder mond](images/draw-face.png)
-
-+ Klik met de rechtermuisknop op het kostuum en klik op **dupliceren**. Herhaal dit nog een keer, zodat je **drie** exemplaren van het uiterlijk hebt. ![Dupliceer een uiterlijk](images/duplicate-costume.png)
-
-+ Noem de drie kostuums `weet niet`, `leuk` en `niet leuk`. Typ de namen in het witte vak dat wordt weergegeven door de pijl hieronder. ![Naam van uiterlijken wijzigen](images/costume-name-annotated.png)
-
-+ Teken een mond op elk van de kostuums. Het **weet niet** gezicht moet een rechte lijn hebben als mond. Het gezicht van **leuk** moet een glimlach hebben. Het **niet leuk** gezicht moet er verdrietig uitzien. ![Draw mouths on the costumes](images/draw-mouths.png) --- /task ---

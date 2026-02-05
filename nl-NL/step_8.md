@@ -1,13 +1,15 @@
 ## Wat kun je verder nog doen?
 
-Als je dit project leuk vond, probeer dan eens een van onze andere [machine learning-projecten](https://projects.raspberrypi.org/nl-NL/pathways/scratch-machine-learning){:target="_blank"}?
-
+Er zijn nog veel meer machine learning en AI-projecten in het [Machine learning with Scratch](https://projects.raspberrypi.org/nl-NL/pathways/scratch-machine-learning)-pad.
 
 ***
+
 Dit project werd vertaald door vrijwilligers:
 
 Cor Groot
 
 Robert-Jan Kempenaar
+
+Iny van Beuningen
 
 Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).

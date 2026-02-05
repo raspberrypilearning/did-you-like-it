@@ -1,0 +1,13 @@
+1
+00:00:04,080 --> 00:00:09,560
+Ga naar rpf.io/ml4k en klik op 'Probeer nu'.
+
+2
+00:00:09,560 --> 00:00:22,600
+Voeg een nieuw project toe dat Nederlandse
+tekst herkent en stel de opslag in op 'in your browser'.
+
+3
+00:00:22,600 --> 00:00:29,280
+Klik nu op 'Train'.
+
