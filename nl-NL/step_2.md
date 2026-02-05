@@ -1,4 +1,4 @@
-## Set up the project
+## Het project opzetten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,27 +10,27 @@
 
 + Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in een webbrowser.
 
-+ Click on **Get started**.
++ Klik op **Begin**.
 
-+ Click on **Try it now**.
-
---- /task ---
-
---- task ---
-
-+ Click on **Projects** in the menu bar at the top.
-
-+ Click on the **+ Add a new project** button.
-
-+ Name your project `Did you like it` and set it to learn to recognise **text**, and store data **in your web browser**. Then click on **Create**. ![Een project maken](images/create-new-project.png)
-
-+ You should now see 'Did you like it' in the projects list. Click on the project. ![Project list with 'Did you like it' listed](images/projects-list.png)
++ Klik op **Probeer nu**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **Train** button. ![Project main menu with arrow pointing to Train button](images/project-train.png)
++ Klik op **Projecten** in de menubalk bovenaan.
+
++ Klik op de knop **+ Voeg een nieuw project toe**.
+
++ Geef je project de naam `Vond je het leuk`, stel het in om tekst te leren herkennen **** in het Nederlands (Dutch) en sla gegevens op **in je webbrowser**. Klik op **Creëer**. ![Een project maken](images/create-new-project.png)
+
++ Je zou nu 'Vond je het leuk' in de projectenlijst moeten zien. Klik op je project. ![Projectlijst met 'Vond je het leuk' vermeld](images/projects-list.png)
+
+--- /task ---
+
+--- task ---
+
++ Klik op de knop **Train**. ![Project hoofdmenu met een pijl naar de Train button](images/project-train.png)
 
 --- /task ---
 
