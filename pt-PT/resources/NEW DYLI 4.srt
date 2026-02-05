@@ -1,32 +1,32 @@
 1
 00:00:04,233 --> 00:00:07,066
-Now go back, and this time click on 'make'.
+Agora volta atrás e, desta vez, clica em "criar".
 
 2
 00:00:07,232 --> 00:00:10,098
-You're going to open your model in Scratch 3.
+Vais usar o teu modelo no Scratch 3.
 
 3
 00:00:11,498 --> 00:00:14,531
-Delete the cat and paint a new sprite.
+Apaga o gato e acrescenta o teu próprio ator.
 
 4
 00:00:17,897 --> 00:00:22,229
-Draw a large emoji with eyes, but don't draw a mouth.
+Desenha um emoji grande com olhos, mas não desenhes uma boca.
 
 5
 00:00:25,362 --> 00:00:29,894
-Now right click your costume and duplicate it so that you have three the same.
+Agora clica com o botão direito do rato no teu traje e duplica-o até teres três iguais.
 
 6
 00:00:30,028 --> 00:00:36,893
-Rename each costume so that you have the costumes 'not sure', 'like' and 'dislike'.
+Altera o nome dos trajes para que passes a ter os trajes "não tenho a certeza", "gosto" e "não gosto".
 
 7
 00:00:38,459 --> 00:00:41,992
-And then, draw a mouth to represent each feeling
+E depois, desenha uma boca para representar cada sentimento
 
 8
 00:00:42,025 --> 00:00:46,918
-so you end up with three different costumes.
+de forma a, no final, teres três trajes diferentes.
 
