@@ -1,46 +1,39 @@
-## Inleiding
+## Wat ga je maken
 
-In dit project gebruik je [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} om een personage te maken dat bepaalt of je een film of boek leuk of niet leuk vond op basis van wat je zegt. Als je iets positiefs zegt, zal het glimlachen. Als je iets negatiefs zegt, zal het huilen. Eerst programmeer je een lijst met regels voor het begrijpen van berichten en leer je waarom die aanpak niet erg goed is. Vervolgens leer je de computer om berichten als positief of negatief te herkennen door er voorbeelden van te geven.
+Bedenk een personage dat reageert op wat je zegt over een film of boek, zowel positief als negatief.
 
-### Wat ga je maken
---- no-print --- 
-![Complete project](images/did-you-like-it.gif) 
---- /no-print ---
+![Een Scratch-project met een grote neutrale emoji. Er is een vak waarin je kunt typen en de emoji vraagt je om te vertellen wat je van een boek of een film vond.](images/whatyouwillmake.png)
 
---- print-only --- 
-![Complete project](images/output-happy.png) 
---- /print-only --- 
 --- collapse ---
+
 ---
-title: Wat ga je leren
+title: Waar worden mijn opmerkingen opgeslagen?
 ---
 
-+ Een machine learning-model trainen en testen
-+ Waarom deze aanpak beter is dan het gebruik van een lange lijst met regels
-+ Een getraind model gebruiken in een Scratch 3-programma
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
+- Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de voorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op jouw machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Wat heb je nodig
+title: Geen YouTube? Download de video's!
 ---
 
-+ Een computer verbonden met internet
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/nl-NL/did-you-like-it-go){:target="_blank"}.
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Aanvullende informatie voor docenten
+title: Licentie
 ---
-
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/did-you-like-it/print){:target="_blank"}.
-
---- /collapse ---
-
-### Licentie
 
 Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
 
 We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
+
+--- /collapse ---
+
+

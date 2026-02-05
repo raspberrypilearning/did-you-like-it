@@ -1,21 +1,61 @@
-## Train en test je machine learning-model
+## Maak een emoji
 
-In deze stap train je jouw machine om te herkennen of je opmerking positief of negatief is en plaats je deze automatisch in een van de twee containers op basis van de voorbeelden die je hebt toegevoegd.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/RIz7WHhlBnQ?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+Nu jouw model onderscheid kan maken tussen positieve en negatieve opmerkingen, kun je het in een Scratch-programma gebruiken om een emoji-reactie weer te geven.
 
 --- task ---
-+ Klik op **< Terug naar project**en vervolgens op **Leer & Test**.
 
-+ Klik op de knop **Train nieuwe machine learning model**. Als je genoeg voorbeelden hebt, zou het programma moeten beginnen met uit de voorbeelden die je hebt gegeven te leren hoe reacties als positief of negatief te herkennen.
++ Klik op de link **<Terug naar project**.
 
-![Annotatie die wijst op de knop voor het trainen van het nieuwe model voor machine learning](images/click-train-annotated.png) --- /task ---
++ Klik op **Maak**.
 
-Wacht tot de training is voltooid. Dit kan een paar minuten duren.
++ Klik op **Scratch 3**.
 
---- task --- Nadat de training is voltooid, wordt een test vak weergegeven. Probeer je machine learning-model te testen om te zien wat het heeft geleerd.
-+ Typ iets leuks en druk op <kbd>Enter</kbd>. Het moet als positief worden herkend.
-+ Typ iets kritisch en druk op <kbd>Enter</kbd>. Het moet als negatief worden herkend.
-+ Test het met voorbeelden die je de computer nog niet eerder hebt getoond.
++ Klik op **Open in Scratch 3**.
 
-Als je niet tevreden bent met hoe de computer de opmerkingen herkent, ga je terug naar de vorige stap en voeg je nog enkele voorbeelden toe. Zorg ervoor dat je deze stappen herhaalt om je computer te trainen met de nieuwe voorbeelden! ![Annotation pointing to train new machine learning model button](images/test-model-annotated.png) --- /task ---
+--- /task ---
 
-Je bent begonnen met het trainen van een computer om tekst te herkennen als positief of negatief. In plaats van te proberen regels te schrijven om dit te kunnen doen, doe je dit door voorbeelden te verzamelen. Deze voorbeelden worden gebruikt om een machine learning-**'model'** te trainen. Dit wordt **supervised learning (begeleid leren)** genoemd vanwege de manier waarop je toezicht houdt op de training van de computer. De computer leert van patronen in de voorbeelden die je hebt gegeven, zoals de woordkeuze en de manier waarop zinnen zijn gestructureerd. Deze worden gebruikt om nieuwe berichten te herkennen. 
+--- task ---
+
++ Verwijder de kat sprite. ![Standaard sprite verwijderen](images/delete-cat.png)
+
+--- /task ---
+
+--- task ---
+
++ Open het kies een sprite-menu en klik op het pictogram **Teken** om een nieuwe sprite te maken. ![Open het kies een sprite menu en selecteer Teken](images/click-paint.png)
+
+--- /task ---
+
+--- task ---
+
++ Teken een gezicht zonder mond. ![Teken een gezicht zonder mond](images/draw-face.png)
+
+--- /task ---
+
+--- task ---
+
++ Klik met de rechtermuisknop op het uiterlijk en klik op **dupliceren** om een kopie te maken. Herhaal dit nog een keer, zodat je **drie** exemplaren van het uiterlijk hebt.
+![Klik met de rechtermuisknop op het gezichtsuiterlijk dat je zojuist hebt getekend en klik op dupliceren](images/duplicate-costume.png)
+
+--- /task ---
+
+--- task ---
+
++ Om een uiterlijk een andere naam te geven, typ je een nieuwe naam in het witte vak. Noem de drie uiterlijken `weet niet`, `leuk` en `niet leuk`.
+![Als je een uiterlijk hebt geselecteerd, typ je de naam van het uiterlijk in het witte vak](images/costume-name.png)
+
+--- /task ---
+
+--- task ---
+
++ Teken een mond op elk uiterlijk om elke emotie weer te geven.
+![Teken op elk uiterlijk een mond om een emotie weer te geven](images/draw-mouths.png)
+
+--- /task ---
+

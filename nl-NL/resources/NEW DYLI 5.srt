@@ -1,0 +1,31 @@
+1
+00:00:05,840 --> 00:00:18,800
+Ga naar het tabblad 'Code' en sleep
+codeblokken om een opmerking te vragen erin.
+
+2
+00:00:18,800 --> 00:00:27,120
+Als het een positieve opmerking is, toon dan een lachend gezichtje.
+
+3
+00:00:27,120 --> 00:00:29,960
+Test jouw programma door een positieve opmerking in te typen
+
+4
+00:00:31,960 --> 00:00:37,560
+...en je zou een lachend gezichtje moeten zien!
+
+5
+00:00:37,560 --> 00:00:44,800
+Voeg nu nog wat code toe om een
+verdrietig gezichtje weer te geven als de opmerking negatief was.
+
+6
+00:00:44,800 --> 00:00:51,640
+Wanneer je het nu test,
+typ dan dat je het niet leuk vond
+
+7
+00:00:51,640 --> 00:00:59,920
+...en je zou een verdrietig gezichtje moeten zien.
+

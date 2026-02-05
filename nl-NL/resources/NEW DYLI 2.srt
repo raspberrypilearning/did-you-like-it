@@ -1,0 +1,21 @@
+1
+00:00:05,000 --> 00:00:09,600
+Voeg een label 'positief' toe.
+
+2
+00:00:09,600 --> 00:00:15,400
+Typ vervolgens een voorbeeld van een positieve
+opmerking over een boek of een film.
+
+3
+00:00:15,400 --> 00:00:20,240
+Voeg meer voorbeelden toe totdat je er zes hebt.
+
+4
+00:00:20,240 --> 00:00:24,520
+Voeg vervolgens een label toe voor negatief
+
+5
+00:00:24,520 --> 00:00:29,960
+en voeg zes voorbeelden van negatieve opmerkingen toe.
+
