@@ -10,21 +10,21 @@ steps:
   - 
     title: Wat ga je maken
   - 
-    title: Set up the project
+    title: Het project opzetten
   - 
-    title: Example comments
+    title: Voorbeeld opmerkingen
     completion:
       - engaged
   - 
-    title: Train the model
+    title: Train het model
   - 
-    title: Create an emoji
+    title: Maak een emoji
   - 
-    title: Show a reaction
+    title: Toon een reactie
     completion:
       - internal
   - 
-    title: 'Challenge'
+    title: 'Uitdaging'
     challenge: true
     completion:
       - external
