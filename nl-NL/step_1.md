@@ -1,38 +1,38 @@
 ## Wat ga je maken
 
-Create a character that will react to what you say about a movie or book, either positive or negative.
+Bedenk een personage dat reageert op wat je zegt over een film of boek, zowel positief als negatief.
 
-![A Scratch project with a large neutral emoji. There is a box to type in, and the emoji is asking you to tell it what you thought of a book or a movie.](images/whatyouwillmake.png)
+![Een Scratch-project met een grote neutrale emoji. Er is een vak waarin je kunt typen en de emoji vraagt je om te vertellen wat je van een boek of een film vond.](images/whatyouwillmake.png)
 
 --- collapse ---
 
 ---
-title: Where are my comments stored?
+title: Waar worden mijn opmerkingen opgeslagen?
 ---
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
+- Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de voorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op jouw machine).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: No YouTube? Download the videos!
+title: Geen YouTube? Download de video's!
 ---
 
-You can [download all the videos for this project](https://rpf.io/p/en/did-you-like-it-go){:target="_blank"}.
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/did-you-like-it-go){:target="_blank"}.
 
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: License
+title: Licentie
 ---
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
+Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
 
 --- /collapse ---
 
