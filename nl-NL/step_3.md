@@ -1,4 +1,4 @@
-## Example comments
+## Voorbeeld opmerkingen
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,31 +6,31 @@
   </div>
 </html>
 
-Your machine learning model needs some examples of positive and negative comments people might make about movies or books.
+Jouw machine learning-model heeft voorbeelden nodig van positieve en negatieve opmerkingen die mensen over films of boeken kunnen maken.
 
 --- task ---
 
-+ Click on **+ Add new label** on the top right and create a label called `positive`.
++ Klik rechtsboven op **+ Voeg een nieuw label toe** en voeg een label toe met de naam `positief`.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add example** inside the box for the new `positive` label, and type in the nicest comment about a movie or book that you can think of.
++ Klik op **+ Voeg een voorbeeld toe** in het vak voor het nieuwe `positief` label en typ de leukste opmerking over een film of boek die je kunt bedenken.
 
-+ Repeat until you have added **at least six examples** of positive comments.
++ Herhaal dit totdat je **minstens zes voorbeelden** van positieve opmerkingen hebt toegevoegd.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add new label** again, and this time create a label called `negative`.
++ Klik nogmaals op **+ Nieuw label toevoegen** en maak dit keer een label genaamd `negatief`.
 
-+ Add **six examples** of negative comments.
++ Voeg **zes voorbeelden** van negatieve opmerkingen toe.
 
 --- /task ---
 
-![Six examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and six examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep".](images/example-messages.png)
+![Zes voorbeelden van positieve opmerkingen: "De cast was briljant", "Het plot was geweldig", "De scènes waren geweldig", "Het verhaal prikkelde mijn verbeelding", "Ik hield van het hoofdpersonage", "De soundtrack was geweldig" en zes voorbeelden van negatieve opmerkingen: "De cast was verschrikkelijk", "Het plot sloeg nergens op", "De scènes waren te donker", "Het verhaal was saai", "Ik haatte het hoofdpersonage", "De soundtrack zorgde ervoor dat ik in slaap viel".](images/example-messages.png)
 
 
 
