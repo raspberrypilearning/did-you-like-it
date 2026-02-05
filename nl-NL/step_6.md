@@ -1,4 +1,4 @@
-## Show a reaction
+## Toon een reactie
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,40 +6,40 @@
   </div>
 </html>
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Je vindt ze onderaan de lijst met blokken.
 
-![New blocks](images/new-blocks-menu.png)
+![Nieuwe blokken](images/new-blocks-menu.png)
 
 --- task ---
 
-+ Click on the **Code** tab.
++ Klik op het **Code** tabblad.
 
 --- /task ---
 
 --- task ---
 
-+ Add some code to ask the model to recognise whether the text is positive. If it is, the emoji will display the `like` face. ![New scratch code: when flag clicked, switch costume to not sure, ask 'tell me what you thought', if recognise text (answer) label = positive then, switch costume to like](images/code-with-new-blocks.png)
++ Voeg wat code toe om het model te vragen om te herkennen of de tekst positief is. Als dat zo is, zal de emoji het `vind ik leuk` gezicht weergeven. ![Nieuwe Scratch code: wanneer op de vlag wordt geklikt, verander het uiterlijk naar 'weet niet', vraag 'vertel me wat je ervan vond', als het herkende tekstlabel (antwoord) positief is, verander dan het uiterlijk naar 'vind ik leuk'](images/code-with-new-blocks.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **green flag** to test your project. Typ een leuk bericht en druk op <kbd>Enter</kbd>. Het karakter moet glimlachen.
++ Klik op de **groene vlag** om je project te testen. Typ een leuk bericht en druk op <kbd>Enter</kbd>. Het karakter moet glimlachen.
 
 --- /task ---
 
-Make sure that you test that this works **even for messages that you didn’t include in your training examples**.
+Zorg ervoor dat je test of dit werkt **zelfs voor berichten die je niet in je training hebt opgenomen.**
 
 --- task ---
 
-+ Add some more code so that `if` the model recognises a negative comment, it displays the `dislike` costume.
++ Voeg nog wat code toe zodat `als` het model een negatieve opmerking herkent, het het `vind ik niet leuk` kostuum weergeeft.
 
 --- collapse ---
 ---
-title: Show me how
+title: Laat me zien hoe ik het moet doen
 ---
 
-![New Scratch code: If recognise text (answer) label = negative then, switch costume to dislike](images/negative-comment.png)
+![Nieuwe Scratch-code: Als herkend tekst (antwoord) label = negatief, verander dan het uiterlijk naar vind ik niet leuk](images/negative-comment.png)
 
 --- /collapse ---
 
