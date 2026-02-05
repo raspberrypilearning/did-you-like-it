@@ -1,30 +1,30 @@
 1
 00:00:03,640 --> 00:00:08,120
-Now click 'Back' and then click on 'Learn & Test'.
+Clica em "Voltar" e depois clica em "Aprender & Testar".
 
 2
 00:00:08,120 --> 00:00:12,040
-Start training your model, 
-which might take a few minutes.
+Começa a treinar o teu modelo, 
+o que pode demorar alguns minutos.
 
 3
 00:00:12,040 --> 00:00:15,000
-When it's ready, test it by typing in a different  
+Quando estiver pronto, testa-o escrevendo um nome diferente
 
 4
 00:00:15,000 --> 00:00:20,000
-positive comment to the ones 
-that you added previously.
+comentário positivo para os
+que adicionou anteriormente.
 
 5
 00:00:20,000 --> 00:00:24,320
-The model should label your comment as positive.
+O modelo deve rotular o comentário como positivo.
 
 6
 00:00:24,320 --> 00:00:29,960
-Try a negative comment too.
+Experimenta também com um comentário negativo.
 
 7
 00:00:31,000 --> 00:00:37,720
-That seems to be working.
+Parece estar a funcionar.
 
