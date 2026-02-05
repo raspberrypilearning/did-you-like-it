@@ -1,16 +1,16 @@
-## Challenge
+## Desafio
 
 --- challenge ---
 
 --- task ---
 
-**Write a reply**: Instead of just changing the way that your character looks, make it reply, based on what it recognises in the message.
+**Escreve uma resposta**: Em vez de apenas mudar a aparência da tua personagem, faz com ela responda com base no que reconhece da tua mensagem.
 
 --- /task ---
 
 --- task ---
 
-**Try a different character**: Instead of a person’s face, why not try something different, like an animal? The character could react in different ways, instead of smiling. For example, you could make a dog that wags their tail if you say something nice about the movie or book.
+**Experimenta com um personagem diferente**: Em vez do rosto de uma pessoa, porque não tentares com algo diferente, como um animal? O personagem poderia reagir de diferentes maneiras, em vez de só sorrir. Por exemplo, podes fazer um cão abanar a cauda se fizeres uma observação simpática sobre o filme ou livro.
 
 --- /task ---
 
