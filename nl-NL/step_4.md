@@ -1,4 +1,4 @@
-## Train the model
+## Train het model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,28 +6,28 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Je hebt de voorbeelden verzameld die je nodig hebt, nu ga je deze gebruiken om jouw machine learning model te trainen.
 
 --- task ---
 
-+ Click on **Back to project** in the top left-hand corner.
++ Klik op **Terug naar project** in de linkerbovenhoek.
 
-+ Click on **Learn & Test**.
++ Klik op **Leer & Test**.
 
-+ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
++ Klik op de knop met het label **Train nieuw machine learning model**. Dit kan enkele minuten duren. ![Pijl die naar de knop wijst met de tekst Train nieuw machine learning model](images/train-new-model.png)
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises whether a comment is positive or negative. Make sure you test examples that you haven’t used before.
+Zodra het trainen is voltooid, kun je testen hoe goed jouw model herkent of een opmerking positief of negatief is. Zorg ervoor dat je voorbeelden test die je nog niet eerder hebt gebruikt.
 
 --- task ---
 
-+ Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
-+ Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
++ Typ iets leuks en druk op <kbd>Enter</kbd>. Het moet als positief worden herkend.
++ Typ iets kritisch en druk op <kbd>Enter</kbd>. Het moet als negatief worden herkend.
 
-![The text 'The movie was really exciting' recognised as positive with 87% confidence.](images/movie-exciting.png)
+![De tekst 'De film was echt spannend' werd met 87% betrouwbaarheid als positief herkend.](images/movie-exciting.png)
 
----/task---
+--- /task ---
 
-If you are not happy with how the model recognises the comments, go back to the **Train** page and add more examples, then train your model again.
+Als je niet tevreden bent met hoe het model de opmerkingen herkent, ga dan terug naar de **Train** pagina en voeg meer voorbeelden toe, en train daarna je model opnieuw.
 
