@@ -22,7 +22,7 @@
 
 + Klik op de knop **+ Voeg een nieuw project toe**.
 
-+ Geef je project de naam `Vond je het leuk`, stel het in om tekst te leren herkennen **** in het Nederlands (Dutch) en sla gegevens op**in je webbrowser**. Klik op**Creëer**.
++ Geef je project de naam `Vond je het leuk`, stel het in om **tekst** te leren herkennen in het Nederlands (Dutch) en sla gegevens op **in je webbrowser**. Klik op **Creëer**.
 ![Een project maken](images/create-new-project.png)
 
 + Je zou nu 'Vond je het leuk' in de projectenlijst moeten zien. Klik op je project.
