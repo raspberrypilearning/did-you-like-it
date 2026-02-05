@@ -1,21 +1,21 @@
 1
 00:00:05,000 --> 00:00:09,600
-Add a label called 'positive'.
+Cria um rótulo chamado "positivo".
 
 2
 00:00:09,600 --> 00:00:15,400
-Then, type an example of a positive 
-comment about a book or a movie.
+Agora, escreve um exemplo de um comentário positivo
+sobre um livro ou um filme.
 
 3
 00:00:15,400 --> 00:00:20,240
-Add more examples until you have six.
+Acrescenta mais exemplos até teres seis.
 
 4
 00:00:20,240 --> 00:00:24,520
-Next, add a label for negative
+Depois, acrescenta um rótulo para negativo
 
 5
 00:00:24,520 --> 00:00:29,960
-and add six examples of negative comments too.
+e também mais seis exemplos de comentários negativos.
 
