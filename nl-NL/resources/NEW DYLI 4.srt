@@ -1,32 +1,32 @@
 1
 00:00:04,233 --> 00:00:07,066
-Now go back, and this time click on 'make'.
+Ga nu terug en klik deze keer op 'Maak'.
 
 2
 00:00:07,232 --> 00:00:10,098
-You're going to open your model in Scratch 3.
+Je gaat het model openen in Scratch 3.
 
 3
 00:00:11,498 --> 00:00:14,531
-Delete the cat and paint a new sprite.
+Verwijder de kat en teken een nieuwe sprite.
 
 4
 00:00:17,897 --> 00:00:22,229
-Draw a large emoji with eyes, but don't draw a mouth.
+Teken een grote emoji met ogen, maar teken geen mond.
 
 5
 00:00:25,362 --> 00:00:29,894
-Now right click your costume and duplicate it so that you have three the same.
+Klik nu met de rechtermuisknop op je uiterlijk en dupliceer het, zodat je drie dezelfde hebt.
 
 6
 00:00:30,028 --> 00:00:36,893
-Rename each costume so that you have the costumes 'not sure', 'like' and 'dislike'.
+Geef elk uiterlijk een nieuwe naam, zodat je uiterlijken krijgt met de namen 'weet ik niet', 'vind ik leuk' en 'vind ik niet leuk'.
 
 7
 00:00:38,459 --> 00:00:41,992
-And then, draw a mouth to represent each feeling
+Teken vervolgens een mond om elk gevoel weer te geven
 
 8
 00:00:42,025 --> 00:00:46,918
-so you end up with three different costumes.
+zodat je drie verschillende uiterlijken hebt.
 
