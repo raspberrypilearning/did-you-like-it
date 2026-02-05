@@ -1,4 +1,4 @@
-## Set up the project
+## Prepara o teu projeto
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,19 +10,19 @@
 
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-+ Click on **Get started**.
++ Clica em **Começa agora**.
 
-+ Click on **Try it now**.
++ Clica em **Experimenta agora**.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **Projects** in the menu bar at the top.
++ Clica em **Projetos** na parte superior do menu.
 
-+ Click on the **+ Add a new project** button.
++ Clica no botão **+ Adicionar um novo projeto**.
 
-+ Name your project `Did you like it` and set it to learn to recognise **text**, and store data **in your web browser**. Then click on **Create**. ![Creating a project](images/create-new-project.png)
++ Dá nome ao teu projeto `Gostaste?` e configura-o para aprender a reconhecer **texto**, e armazenar os dados **no teu navegador web**. E clica em **Criar**. ![Creating a project](images/create-new-project.png)
 
 + You should now see 'Did you like it' in the projects list. Click on the project. ![Project list with 'Did you like it' listed](images/projects-list.png)
 
@@ -30,7 +30,7 @@
 
 --- task ---
 
-+ Click on the **Train** button. ![Project main menu with arrow pointing to Train button](images/project-train.png)
++ Clica no botão **Treinar**. ![Project main menu with arrow pointing to Train button](images/project-train.png)
 
 --- /task ---
 
