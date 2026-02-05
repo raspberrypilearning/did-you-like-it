@@ -1,30 +1,30 @@
 ---
-title: Did you like it?
+title: Gostaste?
 hero_image: images/banner.png
-description: Create a machine learning model that will determine whether you liked a movie or book based on your comments.
+description: Cria um modelo de machine learning que irá determinar se gostas-te de um filme ou livro com base nos teus comentários.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2024-06-19'
 steps:
   - 
-    title: What you will make
+    title: O que vais fazer
   - 
-    title: Set up the project
+    title: Prepara o teu projeto
   - 
-    title: Example comments
+    title: Exemplos de comentários
     completion:
       - engaged
   - 
-    title: Train the model
+    title: Treina o modelo
   - 
-    title: Create an emoji
+    title: Cria um emoji
   - 
-    title: Show a reaction
+    title: Mostrar uma reação
     completion:
       - internal
   - 
-    title: 'Challenge'
+    title: 'Desafio'
     challenge: true
     completion:
       - external
