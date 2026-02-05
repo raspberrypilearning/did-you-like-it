@@ -1,4 +1,4 @@
-## Create an emoji
+## Cria um emoji
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,13 +10,13 @@ Now that your model can distinguish between positive and negative comments, you 
 
 --- task ---
 
-+ Click on the **< Back to project** link.
++ Clica no link **< Voltar para o projeto**.
 
-+ Click on **Make**.
++ Clica em **Criar**.
 
-+ Click on **Scratch 3**.
++ Clica no **Scratch 3**.
 
-+ Click on **Open in Scratch 3**.
++ Clica em **Abre no Scratch 3**.
 
 --- /task ---
 
