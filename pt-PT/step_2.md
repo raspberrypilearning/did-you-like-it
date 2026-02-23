@@ -8,7 +8,7 @@
 
 --- task ---
 
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
++ Vai para [https://machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} num navegador web.
 
 + Clica em **Começa agora**.
 
@@ -22,15 +22,15 @@
 
 + Clica no botão **+ Adicionar um novo projeto**.
 
-+ Dá nome ao teu projeto `Gostaste?` e configura-o para aprender a reconhecer **texto**, e armazenar os dados **no teu navegador web**. E clica em **Criar**. ![Creating a project](images/create-new-project.png)
++ Dá nome ao teu projeto `Gostaste?` e configura-o para aprender a reconhecer **texto**, e armazenar os dados **no teu navegador web**. E clica em **Criar**. ![Criar um projeto](images/create-new-project.png)
 
-+ You should now see 'Did you like it' in the projects list. Click on the project. ![Project list with 'Did you like it' listed](images/projects-list.png)
++ Deves ver agora "Gostaste?" na lista de projetos. Clica no projeto. ![Lista de projetos com "Gostaste?" listado](images/projects-list.png)
 
 --- /task ---
 
 --- task ---
 
-+ Clica no botão **Treinar**. ![Project main menu with arrow pointing to Train button](images/project-train.png)
++ Clica no botão **Treinar**. ![Menu principal do projeto com uma seta a apontar para o botão de Treino](images/project-train.png)
 
 --- /task ---
 
