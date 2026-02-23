@@ -6,7 +6,7 @@
   </div>
 </html>
 
-Now that your model can distinguish between positive and negative comments, you can use it in a Scratch program to show an emoji reaction.
+Agora que o teu modelo consegue distinguir entre comentários positivos e negativos, podes usá-lo num programa Scratch para exibir uma reação com emojis.
 
 --- task ---
 
@@ -22,37 +22,37 @@ Now that your model can distinguish between positive and negative comments, you 
 
 --- task ---
 
-+ Delete the cat sprite. ![Deleting default sprite](images/delete-cat.png)
++ Apaga o ator gato.![Apagar o ator padrão](images/delete-cat.png)
 
 --- /task ---
 
 --- task ---
 
-+ Open the new sprite menu and click on the **Paint** icon to create a new sprite. ![Open the new sprite menu and select Paint](images/click-paint.png)
++ Abre o novo menu de atores e clica no ícone **Pintar** para criar um novo ator. ![Abre o menu do novo ator e seleciona Pintar](images/click-paint.png)
 
 --- /task ---
 
 --- task ---
 
-+ Draw a face without a mouth. ![Draw a face without a mouth](images/draw-face.png)
++ Desenha um rosto sem boca. ![Desenha um rosto sem boca](images/draw-face.png)
 
 --- /task ---
 
 --- task ---
 
-+ Right-click on the costume and click on **duplicate** to create a copy. Repeat one more time so that you have **three** copies of the costume. ![Right click on the face costume you just drew and click duplicate](images/duplicate-costume.png)
++ Clica com o botão direito no traje e clica em **duplicar** para criar uma cópia. Repete mais uma vez, para ficares com **três** cópias do traje. ![Clica com o lado direito do rato no traje do rosto que acabaste de desenhar e clica em duplicar](images/duplicate-costume.png)
 
 --- /task ---
 
 --- task ---
 
-+ To rename a costume, type a new name into the white box. Name the three costumes `not sure`, `like`, and `dislike`. ![With a costume selected, type the costume name in the white box](images/costume-name.png)
++ Para renomear o traje, digita um novo nome na caixa branca. Dá os nomes aos três trajes de `não tenho a certeza`, `gosto` e `não gosto`. ![Com um traje selecionado, digita o nome do traje na caixa branca](images/costume-name.png)
 
 --- /task ---
 
 --- task ---
 
-+ Draw a mouth on each of the costumes to represent each emotion. ![Draw a mouth on each costume to represent an emotion](images/draw-mouths.png)
++ Desenha a boca em cada um dos trajes para representar cada emoção.![Desenha a boca em cada traje para representar cada emoção](images/draw-mouths.png)
 
 --- /task ---
 
