@@ -6,28 +6,28 @@
   </div>
 </html>
 
-You have gathered the examples you need, now you will use these examples to train your machine learning model.
+Reuniste os exemplos que precisas, e agora vais usar estes exemplos para treinar o teu modelo de machine learning.
 
 --- task ---
 
-+ Click on **Back to project** in the top left-hand corner.
++ Clica em **Voltar para o projeto** no canto superior esquerdo.
 
-+ Click on **Learn & Test**.
++ Clica em **Aprender & Testar**.
 
-+ Click on the button labelled **Train new machine learning model**. This may take a few minutes to complete. ![Arrow pointing to button saying Train new machine learning model](images/train-new-model.png)
++ Clica no botão chamado **Treinar um novo modelo de Machine Learning**. Isto pode levar alguns minutos até terminar. ![Seta que aponta para o botão a dizer Treinar um novo modelo de machine learning](images/train-new-model.png)
 
 --- /task ---
 
-Once the training has finished, you can test how well your model recognises whether a comment is positive or negative. Make sure you test examples that you haven’t used before.
+Assim que o treino acabar, podes testar o quão bem o teu modelo reconhece se o comentário é positivo ou negativo. Certifica-te que testas com exemplos que não utilizaste antes.
 
 --- task ---
 
-+ Type something nice, and press <kbd>Enter</kbd>. It should be recognised as positive.
-+ Type something critical, and press <kbd>Enter</kbd>. It should be recognised as negative.
++ Digita algo simpático e pressiona <kbd>Enter</kbd>. Deve ser reconhecido como positivo.
++ Digita algo crítico e pressiona <kbd>Enter</kbd>. Deve ser reconhecido como negativo.
 
-![The text 'The movie was really exciting' recognised as positive with 87% confidence.](images/movie-exciting.png)
+![O texto "O filme foi realmente emocionante" reconhece como positivo com 87% de confiança.](images/movie-exciting.png)
 
 --- /task ---
 
-If you are not happy with how the model recognises the comments, go back to the **Train** page and add more examples, then train your model again.
+Se não ficares satisfeito com o funcionamento do modelo a reconhecer comentários, volta à página **Treinar** e adiciona mais exemplos, depois treina o modelo outra vez.
 
