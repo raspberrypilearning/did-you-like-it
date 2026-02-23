@@ -1,38 +1,38 @@
 ## O que vais fazer
 
-Create a character that will react to what you say about a movie or book, either positive or negative.
+Cria um personagem que reaja ao que tu digas sobre um filme ou livro, seja positivo ou negativo.
 
-![A Scratch project with a large neutral emoji. There is a box to type in, and the emoji is asking you to tell it what you thought of a book or a movie.](images/whatyouwillmake.png)
+![Um projeto em Scratch com um grande emoji neutro. Há uma caixa para digitar, e o emoji está a pedir-te que lhe digas o que achaste de um livro ou filme.](images/whatyouwillmake.png)
 
 --- collapse ---
 
 ---
-title: Where are my comments stored?
+title: Onde estão armazenados os meus comentários?
 ---
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Este projeto usa uma tecnologia chamada "machine learning". Os sistemas de machine learning são treinados com uma grande quantidade de dados.
+- Este projeto não exige que cries uma conta ou faças login. Para este projeto, os exemplos que usas para fazer o modelo são armazenados temporariamente no teu navegador (apenas na tua máquina).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: No YouTube? Download the videos!
+title: Não tens Youtube? Descarrega estes vídeos!
 ---
 
-You can [download all the videos for this project](https://rpf.io/p/en/did-you-like-it-go){:target="_blank"}.
+Podes [descarregar todos os vídeos para este projeto](https://rpf.io/p/en/did-you-like-it-go){:target="_blank"}.
 
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: License
+title: Licença
 ---
 
-This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
+Este projeto possui dupla licença, sob uma [Licença Creative Commons Atribuição Não Comercial Partilha pela mesma Licença](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} e uma [Licença Apache Versão 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
-We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+Gostaríamos de agradecer ao Dale da machinelearningforkids.co.uk por todo o seu trabalho neste projeto.
 
 --- /collapse ---
 
