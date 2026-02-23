@@ -6,31 +6,31 @@
   </div>
 </html>
 
-Your machine learning model needs some examples of positive and negative comments people might make about movies or books.
+O teu modelo de machine learning precisa de alguns exemplos de comentários positivos e negativos que as pessoas possam fazer sobre filmes e livros.
 
 --- task ---
 
-+ Click on **+ Add new label** on the top right and create a label called `positive`.
++ Clica em **+ Adicionar novo rótulo** no canto superior direito e cria um rótulo chamado `positivo`.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add example** inside the box for the new `positive` label, and type in the nicest comment about a movie or book that you can think of.
++ Clica no **+ Adicionar exemplo** dentro da caixa para o novo rótulo `positivo`, e escreve o comentário mais simpático que conseguires pensar sobre um filme ou livro.
 
-+ Repeat until you have added **at least six examples** of positive comments.
++ Repete até teres adicionado **pelo menos seis exemplos** de comentários positivos.
 
 --- /task ---
 
 --- task ---
 
-+ Click on **+ Add new label** again, and this time create a label called `negative`.
++ Clica de novo em **+ Adicionar novo rótulo**, e desta vez, cria um rótulo chamado `negativo`.
 
-+ Add **six examples** of negative comments.
++ Adiciona **seis exemplos** de comentários negativos.
 
 --- /task ---
 
-![Six examples of positive comments: "The cast were brilliant", "The plot was great", "The scenes were awesome", "The story sparked my imagination", "I loved the main character", "The soundtrack rocked" and six examples of negative comments: "The cast were awful", "The plot made no sense", "The scenes were too dark", "The story was boring", "I hated the main character", "The soundtrack put me to sleep".](images/example-messages.png)
+![Seis exemplos de comentários positivos: " O elenco foi brilhante", "O enredo foi ótimo", "As cenas foram incríveis", "A história despertou a minha imaginação", "Adorei a personagem principal", "A banda sonora foi sensacional" e seis exemplos de comentários negativos: "O elenco foi péssimo", "O enredo não fez sentido", "As cenas eram demasiados escuras", "A história era aborrecida", "Odiei a personagem principal", "A banda sonora deixou-me a dormir".](images/example-messages.png)
 
 
 
