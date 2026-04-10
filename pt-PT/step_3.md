@@ -30,7 +30,7 @@ O teu modelo de machine learning precisa de alguns exemplos de comentários posi
 
 --- /task ---
 
-![Seis exemplos de comentários positivos: " O elenco foi brilhante", "O enredo foi ótimo", "As cenas foram incríveis", "A história despertou a minha imaginação", "Adorei a personagem principal", "A banda sonora foi sensacional" e seis exemplos de comentários negativos: "O elenco foi péssimo", "O enredo não fez sentido", "As cenas eram demasiados escuras", "A história era aborrecida", "Odiei a personagem principal", "A banda sonora deixou-me a dormir".](images/example-messages.png)
+![Seis exemplos de comentários positivos: "O elenco foi brilhante", "O enredo foi ótimo", "As cenas foram incríveis", "A história despertou a minha imaginação", "Adorei a personagem principal", "A banda sonora foi sensacional" e seis exemplos de comentários negativos: "O elenco foi péssimo", "O enredo não fez sentido", "As cenas eram demasiados escuras", "A história era aborrecida", "Odiei a personagem principal", "A banda sonora deixou-me a dormir".](images/example-messages.png)
 
 
 
